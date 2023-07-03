@@ -1,0 +1,3144 @@
+,FIPS,STNAME,CTYNAME,LISTINGS_AVAILABLE,APPROVAL,ACTIVE
+0,18049,Indiana,Fulton County,False,False,False
+1,18051,Indiana,Gibson County,False,False,False
+2,18053,Indiana,Grant County,False,False,False
+3,18055,Indiana,Greene County,False,False,False
+4,18057,Indiana,Hamilton County,False,False,False
+5,18059,Indiana,Hancock County,False,False,False
+6,18061,Indiana,Harrison County,False,False,False
+7,18063,Indiana,Hendricks County,False,False,False
+8,18065,Indiana,Henry County,False,False,False
+9,18067,Indiana,Howard County,False,False,False
+10,18069,Indiana,Huntington County,False,False,False
+11,18071,Indiana,Jackson County,False,False,False
+12,18073,Indiana,Jasper County,False,False,False
+13,18075,Indiana,Jay County,False,False,False
+14,18077,Indiana,Jefferson County,False,False,False
+15,18079,Indiana,Jennings County,False,False,False
+16,18081,Indiana,Johnson County,False,False,False
+17,18083,Indiana,Knox County,False,False,False
+18,18085,Indiana,Kosciusko County,False,False,False
+19,18087,Indiana,LaGrange County,False,False,False
+20,18089,Indiana,Lake County,False,False,False
+21,18091,Indiana,LaPorte County,False,False,False
+22,18093,Indiana,Lawrence County,False,False,False
+23,18095,Indiana,Madison County,False,False,False
+24,18097,Indiana,Marion County,False,False,False
+25,18099,Indiana,Marshall County,False,False,False
+26,18101,Indiana,Martin County,False,False,False
+27,18103,Indiana,Miami County,False,False,False
+28,18105,Indiana,Monroe County,False,False,False
+29,18107,Indiana,Montgomery County,False,False,False
+30,18109,Indiana,Morgan County,False,False,False
+31,18111,Indiana,Newton County,False,False,False
+32,18113,Indiana,Noble County,False,False,False
+33,18115,Indiana,Ohio County,False,False,False
+34,18117,Indiana,Orange County,False,False,False
+35,18119,Indiana,Owen County,False,False,False
+36,18121,Indiana,Parke County,False,False,False
+37,18123,Indiana,Perry County,False,False,False
+38,18125,Indiana,Pike County,False,False,False
+39,18127,Indiana,Porter County,False,False,False
+40,18129,Indiana,Posey County,False,False,False
+41,18131,Indiana,Pulaski County,False,False,False
+42,18133,Indiana,Putnam County,False,False,False
+43,18135,Indiana,Randolph County,False,False,False
+44,18137,Indiana,Ripley County,False,False,False
+45,18139,Indiana,Rush County,False,False,False
+46,18141,Indiana,St. Joseph County,False,False,False
+47,18143,Indiana,Scott County,False,False,False
+48,18145,Indiana,Shelby County,False,False,False
+49,18147,Indiana,Spencer County,False,False,False
+50,18149,Indiana,Starke County,False,False,False
+51,18151,Indiana,Steuben County,False,False,False
+52,18153,Indiana,Sullivan County,False,False,False
+53,18155,Indiana,Switzerland County,False,False,False
+54,18157,Indiana,Tippecanoe County,False,False,False
+55,18159,Indiana,Tipton County,False,False,False
+56,18161,Indiana,Union County,False,False,False
+57,18163,Indiana,Vanderburgh County,False,False,False
+58,18165,Indiana,Vermillion County,False,False,False
+59,18167,Indiana,Vigo County,False,False,False
+60,18169,Indiana,Wabash County,False,False,False
+61,18171,Indiana,Warren County,False,False,False
+62,18173,Indiana,Warrick County,False,False,False
+63,18175,Indiana,Washington County,False,False,False
+64,18177,Indiana,Wayne County,False,False,False
+65,18179,Indiana,Wells County,False,False,False
+66,18181,Indiana,White County,False,False,False
+67,18183,Indiana,Whitley County,False,False,False
+68,19001,Iowa,Adair County,False,False,False
+69,19003,Iowa,Adams County,False,False,False
+70,19005,Iowa,Allamakee County,False,False,False
+71,19007,Iowa,Appanoose County,False,False,False
+72,19009,Iowa,Audubon County,False,False,False
+73,19011,Iowa,Benton County,False,False,False
+74,19013,Iowa,Black Hawk County,False,False,False
+75,19015,Iowa,Boone County,False,False,False
+76,19017,Iowa,Bremer County,False,False,False
+77,19019,Iowa,Buchanan County,False,False,False
+78,19021,Iowa,Buena Vista County,False,False,False
+79,19023,Iowa,Butler County,False,False,False
+80,19025,Iowa,Calhoun County,False,False,False
+81,19027,Iowa,Carroll County,False,False,False
+82,19029,Iowa,Cass County,False,False,False
+83,19031,Iowa,Cedar County,False,False,False
+84,19033,Iowa,Cerro Gordo County,False,False,False
+85,19035,Iowa,Cherokee County,False,False,False
+86,19037,Iowa,Chickasaw County,False,False,False
+87,19039,Iowa,Clarke County,False,False,False
+88,19041,Iowa,Clay County,False,False,False
+89,19043,Iowa,Clayton County,False,False,False
+90,19045,Iowa,Clinton County,False,False,False
+91,19047,Iowa,Crawford County,False,False,False
+92,19049,Iowa,Dallas County,False,False,False
+93,19051,Iowa,Davis County,False,False,False
+94,19053,Iowa,Decatur County,False,False,False
+95,19055,Iowa,Delaware County,False,False,False
+96,19057,Iowa,Des Moines County,False,False,False
+97,19059,Iowa,Dickinson County,False,False,False
+98,19061,Iowa,Dubuque County,False,False,False
+99,19063,Iowa,Emmet County,False,False,False
+100,19065,Iowa,Fayette County,False,False,False
+101,19067,Iowa,Floyd County,False,False,False
+102,19069,Iowa,Franklin County,False,False,False
+103,19071,Iowa,Fremont County,False,False,False
+104,19073,Iowa,Greene County,False,False,False
+105,19075,Iowa,Grundy County,False,False,False
+106,19077,Iowa,Guthrie County,False,False,False
+107,19079,Iowa,Hamilton County,False,False,False
+108,19081,Iowa,Hancock County,False,False,False
+109,19083,Iowa,Hardin County,False,False,False
+110,19085,Iowa,Harrison County,False,False,False
+111,19087,Iowa,Henry County,False,False,False
+112,19089,Iowa,Howard County,False,False,False
+113,19091,Iowa,Humboldt County,False,False,False
+114,19095,Iowa,Iowa County,False,False,False
+115,19097,Iowa,Jackson County,False,False,False
+116,19099,Iowa,Jasper County,False,False,False
+117,19101,Iowa,Jefferson County,False,False,False
+118,19103,Iowa,Johnson County,False,False,False
+119,19105,Iowa,Jones County,False,False,False
+120,19107,Iowa,Keokuk County,False,False,False
+121,19109,Iowa,Kossuth County,False,False,False
+122,19113,Iowa,Linn County,False,False,False
+123,19115,Iowa,Louisa County,False,False,False
+124,19117,Iowa,Lucas County,False,False,False
+125,19119,Iowa,Lyon County,False,False,False
+126,19121,Iowa,Madison County,False,False,False
+127,19123,Iowa,Mahaska County,False,False,False
+128,19125,Iowa,Marion County,False,False,False
+129,19127,Iowa,Marshall County,False,False,False
+130,19129,Iowa,Mills County,False,False,False
+131,19131,Iowa,Mitchell County,False,False,False
+132,19133,Iowa,Monona County,False,False,False
+133,19135,Iowa,Monroe County,False,False,False
+134,19137,Iowa,Montgomery County,False,False,False
+135,19139,Iowa,Muscatine County,False,False,False
+136,19141,Iowa,O'Brien County,False,False,False
+137,19143,Iowa,Osceola County,False,False,False
+138,19145,Iowa,Page County,False,False,False
+139,19147,Iowa,Palo Alto County,False,False,False
+140,19149,Iowa,Plymouth County,False,False,False
+141,19151,Iowa,Pocahontas County,False,False,False
+142,19153,Iowa,Polk County,False,False,False
+143,19155,Iowa,Pottawattamie County,False,False,False
+144,19157,Iowa,Poweshiek County,False,False,False
+145,19159,Iowa,Ringgold County,False,False,False
+146,19163,Iowa,Scott County,False,False,False
+147,19165,Iowa,Shelby County,False,False,False
+148,19167,Iowa,Sioux County,False,False,False
+149,19169,Iowa,Story County,False,False,False
+150,19171,Iowa,Tama County,False,False,False
+151,19173,Iowa,Taylor County,False,False,False
+152,19175,Iowa,Union County,False,False,False
+153,19177,Iowa,Van Buren County,False,False,False
+154,19179,Iowa,Wapello County,False,False,False
+155,19181,Iowa,Warren County,False,False,False
+156,19183,Iowa,Washington County,False,False,False
+157,19185,Iowa,Wayne County,False,False,False
+158,19187,Iowa,Webster County,False,False,False
+159,19189,Iowa,Winnebago County,False,False,False
+160,19191,Iowa,Winneshiek County,False,False,False
+161,19193,Iowa,Woodbury County,False,False,False
+162,19195,Iowa,Worth County,False,False,False
+163,19197,Iowa,Wright County,False,False,False
+164,20001,Kansas,Allen County,False,False,False
+165,20003,Kansas,Anderson County,False,False,False
+166,20005,Kansas,Atchison County,False,False,False
+167,20007,Kansas,Barber County,False,False,False
+168,20009,Kansas,Barton County,False,False,False
+169,20011,Kansas,Bourbon County,False,False,False
+170,20013,Kansas,Brown County,False,False,False
+171,20015,Kansas,Butler County,False,False,False
+172,20017,Kansas,Chase County,False,False,False
+173,20019,Kansas,Chautauqua County,False,False,False
+174,20021,Kansas,Cherokee County,False,False,False
+175,20023,Kansas,Cheyenne County,False,False,False
+176,20025,Kansas,Clark County,False,False,False
+177,20027,Kansas,Clay County,False,False,False
+178,20029,Kansas,Cloud County,False,False,False
+179,20031,Kansas,Coffey County,False,False,False
+180,20033,Kansas,Comanche County,False,False,False
+181,20035,Kansas,Cowley County,False,False,False
+182,20037,Kansas,Crawford County,False,False,False
+183,20039,Kansas,Decatur County,False,False,False
+184,20041,Kansas,Dickinson County,False,False,False
+185,20043,Kansas,Doniphan County,False,False,False
+186,20045,Kansas,Douglas County,False,False,False
+187,20047,Kansas,Edwards County,False,False,False
+188,20049,Kansas,Elk County,False,False,False
+189,20051,Kansas,Ellis County,False,False,False
+190,20053,Kansas,Ellsworth County,False,False,False
+191,20055,Kansas,Finney County,False,False,False
+192,20057,Kansas,Ford County,False,False,False
+193,20059,Kansas,Franklin County,False,False,False
+194,20061,Kansas,Geary County,False,False,False
+195,20063,Kansas,Gove County,False,False,False
+196,20065,Kansas,Graham County,False,False,False
+197,20067,Kansas,Grant County,False,False,False
+198,20069,Kansas,Gray County,False,False,False
+199,20071,Kansas,Greeley County,False,False,False
+200,20073,Kansas,Greenwood County,False,False,False
+201,20075,Kansas,Hamilton County,False,False,False
+202,20077,Kansas,Harper County,False,False,False
+203,20079,Kansas,Harvey County,False,False,False
+204,20081,Kansas,Haskell County,False,False,False
+205,20083,Kansas,Hodgeman County,False,False,False
+206,20085,Kansas,Jackson County,False,False,False
+207,20087,Kansas,Jefferson County,False,False,False
+208,20089,Kansas,Jewell County,False,False,False
+209,20091,Kansas,Johnson County,False,False,False
+210,20093,Kansas,Kearny County,False,False,False
+211,20095,Kansas,Kingman County,False,False,False
+212,20097,Kansas,Kiowa County,False,False,False
+213,20099,Kansas,Labette County,False,False,False
+214,20101,Kansas,Lane County,False,False,False
+215,20103,Kansas,Leavenworth County,False,False,False
+216,20105,Kansas,Lincoln County,False,False,False
+217,20107,Kansas,Linn County,False,False,False
+218,20109,Kansas,Logan County,False,False,False
+219,20111,Kansas,Lyon County,False,False,False
+220,20113,Kansas,McPherson County,False,False,False
+221,20115,Kansas,Marion County,False,False,False
+222,20117,Kansas,Marshall County,False,False,False
+223,20119,Kansas,Meade County,False,False,False
+224,20121,Kansas,Miami County,False,False,False
+225,20123,Kansas,Mitchell County,False,False,False
+226,20125,Kansas,Montgomery County,False,False,False
+227,20127,Kansas,Morris County,False,False,False
+228,20129,Kansas,Morton County,False,False,False
+229,20131,Kansas,Nemaha County,False,False,False
+230,20133,Kansas,Neosho County,False,False,False
+231,20135,Kansas,Ness County,False,False,False
+232,20137,Kansas,Norton County,False,False,False
+233,20139,Kansas,Osage County,False,False,False
+234,20141,Kansas,Osborne County,False,False,False
+235,20143,Kansas,Ottawa County,False,False,False
+236,20145,Kansas,Pawnee County,False,False,False
+237,20147,Kansas,Phillips County,False,False,False
+238,20149,Kansas,Pottawatomie County,False,False,False
+239,20151,Kansas,Pratt County,False,False,False
+240,20153,Kansas,Rawlins County,False,False,False
+241,20155,Kansas,Reno County,False,False,False
+242,20157,Kansas,Republic County,False,False,False
+243,20159,Kansas,Rice County,False,False,False
+244,20161,Kansas,Riley County,False,False,False
+245,20163,Kansas,Rooks County,False,False,False
+246,20165,Kansas,Rush County,False,False,False
+247,20167,Kansas,Russell County,False,False,False
+248,20169,Kansas,Saline County,False,False,False
+249,20171,Kansas,Scott County,False,False,False
+250,20173,Kansas,Sedgwick County,False,False,False
+251,20175,Kansas,Seward County,False,False,False
+252,20177,Kansas,Shawnee County,False,False,False
+253,20179,Kansas,Sheridan County,False,False,False
+254,20181,Kansas,Sherman County,False,False,False
+255,20183,Kansas,Smith County,False,False,False
+256,20185,Kansas,Stafford County,False,False,False
+257,20187,Kansas,Stanton County,False,False,False
+258,20189,Kansas,Stevens County,False,False,False
+259,20191,Kansas,Sumner County,False,False,False
+260,20193,Kansas,Thomas County,False,False,False
+261,20195,Kansas,Trego County,False,False,False
+262,20197,Kansas,Wabaunsee County,False,False,False
+263,20199,Kansas,Wallace County,False,False,False
+264,20201,Kansas,Washington County,False,False,False
+265,20203,Kansas,Wichita County,False,False,False
+266,20205,Kansas,Wilson County,False,False,False
+267,20207,Kansas,Woodson County,False,False,False
+268,20209,Kansas,Wyandotte County,False,False,False
+269,21001,Kentucky,Adair County,False,False,False
+270,21003,Kentucky,Allen County,False,False,False
+271,21005,Kentucky,Anderson County,False,False,False
+272,21007,Kentucky,Ballard County,False,False,False
+273,21009,Kentucky,Barren County,False,False,False
+274,21011,Kentucky,Bath County,False,False,False
+275,21013,Kentucky,Bell County,False,False,False
+276,21015,Kentucky,Boone County,False,False,False
+277,21017,Kentucky,Bourbon County,False,False,False
+278,21019,Kentucky,Boyd County,False,False,False
+279,21021,Kentucky,Boyle County,False,False,False
+280,21023,Kentucky,Bracken County,False,False,False
+281,21025,Kentucky,Breathitt County,False,False,False
+282,21027,Kentucky,Breckinridge County,False,False,False
+283,21029,Kentucky,Bullitt County,False,False,False
+284,21031,Kentucky,Butler County,False,False,False
+285,21033,Kentucky,Caldwell County,False,False,False
+286,21035,Kentucky,Calloway County,False,False,False
+287,21037,Kentucky,Campbell County,False,False,False
+288,21039,Kentucky,Carlisle County,False,False,False
+289,21041,Kentucky,Carroll County,False,False,False
+290,21043,Kentucky,Carter County,False,False,False
+291,21045,Kentucky,Casey County,False,False,False
+292,21047,Kentucky,Christian County,False,False,False
+293,21049,Kentucky,Clark County,False,False,False
+294,21051,Kentucky,Clay County,False,False,False
+295,21053,Kentucky,Clinton County,False,False,False
+296,21055,Kentucky,Crittenden County,False,False,False
+297,21057,Kentucky,Cumberland County,False,False,False
+298,21059,Kentucky,Daviess County,False,False,False
+299,21061,Kentucky,Edmonson County,False,False,False
+300,21063,Kentucky,Elliott County,False,False,False
+301,21065,Kentucky,Estill County,False,False,False
+302,21067,Kentucky,Fayette County,False,False,False
+303,21069,Kentucky,Fleming County,False,False,False
+304,21071,Kentucky,Floyd County,False,False,False
+305,21073,Kentucky,Franklin County,False,False,False
+306,21075,Kentucky,Fulton County,False,False,False
+307,21077,Kentucky,Gallatin County,False,False,False
+308,21079,Kentucky,Garrard County,False,False,False
+309,21081,Kentucky,Grant County,False,False,False
+310,21083,Kentucky,Graves County,False,False,False
+311,21085,Kentucky,Grayson County,False,False,False
+312,21087,Kentucky,Green County,False,False,False
+313,21089,Kentucky,Greenup County,False,False,False
+314,21091,Kentucky,Hancock County,False,False,False
+315,21093,Kentucky,Hardin County,False,False,False
+316,21095,Kentucky,Harlan County,False,False,False
+317,21097,Kentucky,Harrison County,False,False,False
+318,21099,Kentucky,Hart County,False,False,False
+319,21101,Kentucky,Henderson County,False,False,False
+320,21103,Kentucky,Henry County,False,False,False
+321,21105,Kentucky,Hickman County,False,False,False
+322,21107,Kentucky,Hopkins County,False,False,False
+323,21109,Kentucky,Jackson County,False,False,False
+324,21111,Kentucky,Jefferson County,False,False,False
+325,21113,Kentucky,Jessamine County,False,False,False
+326,21115,Kentucky,Johnson County,False,False,False
+327,21117,Kentucky,Kenton County,False,False,False
+328,21119,Kentucky,Knott County,False,False,False
+329,21121,Kentucky,Knox County,False,False,False
+330,21123,Kentucky,Larue County,False,False,False
+331,21125,Kentucky,Laurel County,False,False,False
+332,21127,Kentucky,Lawrence County,False,False,False
+333,21129,Kentucky,Lee County,False,False,False
+334,21131,Kentucky,Leslie County,False,False,False
+335,21133,Kentucky,Letcher County,False,False,False
+336,21135,Kentucky,Lewis County,False,False,False
+337,21137,Kentucky,Lincoln County,False,False,False
+338,21139,Kentucky,Livingston County,False,False,False
+339,21141,Kentucky,Logan County,False,False,False
+340,21143,Kentucky,Lyon County,False,False,False
+341,21145,Kentucky,McCracken County,False,False,False
+342,21147,Kentucky,McCreary County,False,False,False
+343,21149,Kentucky,McLean County,False,False,False
+344,21151,Kentucky,Madison County,False,False,False
+345,21153,Kentucky,Magoffin County,False,False,False
+346,21155,Kentucky,Marion County,False,False,False
+347,21157,Kentucky,Marshall County,False,False,False
+348,21159,Kentucky,Martin County,False,False,False
+349,21161,Kentucky,Mason County,False,False,False
+350,21163,Kentucky,Meade County,False,False,False
+351,21165,Kentucky,Menifee County,False,False,False
+352,21167,Kentucky,Mercer County,False,False,False
+353,21169,Kentucky,Metcalfe County,False,False,False
+354,21171,Kentucky,Monroe County,False,False,False
+355,21173,Kentucky,Montgomery County,False,False,False
+356,21175,Kentucky,Morgan County,False,False,False
+357,21177,Kentucky,Muhlenberg County,False,False,False
+358,21179,Kentucky,Nelson County,False,False,False
+359,21181,Kentucky,Nicholas County,False,False,False
+360,21183,Kentucky,Ohio County,False,False,False
+361,21185,Kentucky,Oldham County,False,False,False
+362,21187,Kentucky,Owen County,False,False,False
+363,21189,Kentucky,Owsley County,False,False,False
+364,21191,Kentucky,Pendleton County,False,False,False
+365,21193,Kentucky,Perry County,False,False,False
+366,21195,Kentucky,Pike County,False,False,False
+367,21197,Kentucky,Powell County,False,False,False
+368,21199,Kentucky,Pulaski County,False,False,False
+369,21201,Kentucky,Robertson County,False,False,False
+370,21203,Kentucky,Rockcastle County,False,False,False
+371,21205,Kentucky,Rowan County,False,False,False
+372,21207,Kentucky,Russell County,False,False,False
+373,21209,Kentucky,Scott County,False,False,False
+374,21211,Kentucky,Shelby County,False,False,False
+375,21213,Kentucky,Simpson County,False,False,False
+376,21215,Kentucky,Spencer County,False,False,False
+377,21217,Kentucky,Taylor County,False,False,False
+378,21219,Kentucky,Todd County,False,False,False
+379,21221,Kentucky,Trigg County,False,False,False
+380,21223,Kentucky,Trimble County,False,False,False
+381,21225,Kentucky,Union County,False,False,False
+382,21227,Kentucky,Warren County,False,False,False
+383,21229,Kentucky,Washington County,False,False,False
+384,21231,Kentucky,Wayne County,False,False,False
+385,21233,Kentucky,Webster County,False,False,False
+386,21235,Kentucky,Whitley County,False,False,False
+387,21237,Kentucky,Wolfe County,False,False,False
+388,21239,Kentucky,Woodford County,False,False,False
+389,22001,Louisiana,Acadia Parish,False,False,False
+390,22003,Louisiana,Allen Parish,False,False,False
+391,22005,Louisiana,Ascension Parish,False,False,False
+392,22007,Louisiana,Assumption Parish,False,False,False
+393,22009,Louisiana,Avoyelles Parish,False,False,False
+394,22011,Louisiana,Beauregard Parish,False,False,False
+395,22013,Louisiana,Bienville Parish,False,False,False
+396,22015,Louisiana,Bossier Parish,False,False,False
+397,22017,Louisiana,Caddo Parish,False,False,False
+398,22019,Louisiana,Calcasieu Parish,False,False,False
+399,22021,Louisiana,Caldwell Parish,False,False,False
+400,22023,Louisiana,Cameron Parish,False,False,False
+401,22025,Louisiana,Catahoula Parish,False,False,False
+402,22027,Louisiana,Claiborne Parish,False,False,False
+403,22029,Louisiana,Concordia Parish,False,False,False
+404,22031,Louisiana,De Soto Parish,False,False,False
+405,22033,Louisiana,East Baton Rouge Parish,False,False,False
+406,22035,Louisiana,East Carroll Parish,False,False,False
+407,22037,Louisiana,East Feliciana Parish,False,False,False
+408,22039,Louisiana,Evangeline Parish,False,False,False
+409,22041,Louisiana,Franklin Parish,False,False,False
+410,22043,Louisiana,Grant Parish,False,False,False
+411,22045,Louisiana,Iberia Parish,False,False,False
+412,22047,Louisiana,Iberville Parish,False,False,False
+413,22049,Louisiana,Jackson Parish,False,False,False
+414,22051,Louisiana,Jefferson Parish,False,False,False
+415,22053,Louisiana,Jefferson Davis Parish,False,False,False
+416,22055,Louisiana,Lafayette Parish,False,False,False
+417,22057,Louisiana,Lafourche Parish,False,False,False
+418,22059,Louisiana,La Salle Parish,False,False,False
+419,22061,Louisiana,Lincoln Parish,False,False,False
+420,22063,Louisiana,Livingston Parish,False,False,False
+421,22065,Louisiana,Madison Parish,False,False,False
+422,22067,Louisiana,Morehouse Parish,False,False,False
+423,22069,Louisiana,Natchitoches Parish,False,False,False
+424,22071,Louisiana,Orleans Parish,False,False,False
+425,22073,Louisiana,Ouachita Parish,False,False,False
+426,22075,Louisiana,Plaquemines Parish,False,False,False
+427,22077,Louisiana,Pointe Coupee Parish,False,False,False
+428,22079,Louisiana,Rapides Parish,False,False,False
+429,22081,Louisiana,Red River Parish,False,False,False
+430,22083,Louisiana,Richland Parish,False,False,False
+431,22085,Louisiana,Sabine Parish,False,False,False
+432,22087,Louisiana,St. Bernard Parish,False,False,False
+433,22089,Louisiana,St. Charles Parish,False,False,False
+434,22091,Louisiana,St. Helena Parish,False,False,False
+435,22093,Louisiana,St. James Parish,False,False,False
+436,22095,Louisiana,St. John the Baptist Parish,False,False,False
+437,22097,Louisiana,St. Landry Parish,False,False,False
+438,22099,Louisiana,St. Martin Parish,False,False,False
+439,22101,Louisiana,St. Mary Parish,False,False,False
+440,22103,Louisiana,St. Tammany Parish,False,False,False
+441,22105,Louisiana,Tangipahoa Parish,False,False,False
+442,22107,Louisiana,Tensas Parish,False,False,False
+443,22109,Louisiana,Terrebonne Parish,False,False,False
+444,22111,Louisiana,Union Parish,False,False,False
+445,22113,Louisiana,Vermilion Parish,False,False,False
+446,22115,Louisiana,Vernon Parish,False,False,False
+447,22117,Louisiana,Washington Parish,False,False,False
+448,22119,Louisiana,Webster Parish,False,False,False
+449,22121,Louisiana,West Baton Rouge Parish,False,False,False
+450,22123,Louisiana,West Carroll Parish,False,False,False
+451,22125,Louisiana,West Feliciana Parish,False,False,False
+452,22127,Louisiana,Winn Parish,False,False,False
+453,23001,Maine,Androscoggin County,False,False,False
+454,23003,Maine,Aroostook County,False,False,False
+455,23005,Maine,Cumberland County,False,False,False
+456,23007,Maine,Franklin County,False,False,False
+457,23009,Maine,Hancock County,False,False,False
+458,23011,Maine,Kennebec County,False,False,False
+459,23013,Maine,Knox County,False,False,False
+460,23015,Maine,Lincoln County,False,False,False
+461,23017,Maine,Oxford County,False,False,False
+462,23019,Maine,Penobscot County,False,False,False
+463,23021,Maine,Piscataquis County,False,False,False
+464,23023,Maine,Sagadahoc County,False,False,False
+465,23025,Maine,Somerset County,False,False,False
+466,23027,Maine,Waldo County,False,False,False
+467,23029,Maine,Washington County,False,False,False
+468,23031,Maine,York County,False,False,False
+469,24001,Maryland,Allegany County,False,False,False
+470,24003,Maryland,Anne Arundel County,False,False,False
+471,24005,Maryland,Baltimore County,False,False,False
+472,24009,Maryland,Calvert County,False,False,False
+473,24011,Maryland,Caroline County,False,False,False
+474,24013,Maryland,Carroll County,False,False,False
+475,24015,Maryland,Cecil County,False,False,False
+476,24017,Maryland,Charles County,False,False,False
+477,24019,Maryland,Dorchester County,False,False,False
+478,24021,Maryland,Frederick County,False,False,False
+479,24023,Maryland,Garrett County,False,False,False
+480,24025,Maryland,Harford County,False,False,False
+481,24027,Maryland,Howard County,False,False,False
+482,24029,Maryland,Kent County,False,False,False
+483,24031,Maryland,Montgomery County,False,False,False
+484,24033,Maryland,Prince George's County,False,False,False
+485,24035,Maryland,Queen Anne's County,False,False,False
+486,24037,Maryland,St. Mary's County,False,False,False
+487,24039,Maryland,Somerset County,False,False,False
+488,24041,Maryland,Talbot County,False,False,False
+489,24043,Maryland,Washington County,False,False,False
+490,24045,Maryland,Wicomico County,False,False,False
+491,24047,Maryland,Worcester County,False,False,False
+492,24510,Maryland,Baltimore city,False,False,False
+493,25001,Massachusetts,Barnstable County,False,False,False
+494,25003,Massachusetts,Berkshire County,False,False,False
+495,25005,Massachusetts,Bristol County,False,False,False
+496,25007,Massachusetts,Dukes County,False,False,False
+497,25009,Massachusetts,Essex County,False,False,False
+498,25011,Massachusetts,Franklin County,False,False,False
+499,25013,Massachusetts,Hampden County,False,False,False
+500,25015,Massachusetts,Hampshire County,False,False,False
+501,25017,Massachusetts,Middlesex County,False,False,False
+502,25019,Massachusetts,Nantucket County,False,False,False
+503,25021,Massachusetts,Norfolk County,False,False,False
+504,25023,Massachusetts,Plymouth County,False,False,False
+505,25025,Massachusetts,Suffolk County,False,False,False
+506,25027,Massachusetts,Worcester County,False,False,False
+507,26001,Michigan,Alcona County,False,False,False
+508,26003,Michigan,Alger County,False,False,False
+509,26005,Michigan,Allegan County,False,False,False
+510,26007,Michigan,Alpena County,False,False,False
+511,26009,Michigan,Antrim County,False,False,False
+512,26011,Michigan,Arenac County,False,False,False
+513,26013,Michigan,Baraga County,False,False,False
+514,26015,Michigan,Barry County,False,False,False
+515,26017,Michigan,Bay County,False,False,False
+516,26019,Michigan,Benzie County,False,False,False
+517,26021,Michigan,Berrien County,False,False,False
+518,26023,Michigan,Branch County,False,False,False
+519,26025,Michigan,Calhoun County,False,False,False
+520,26027,Michigan,Cass County,False,False,False
+521,26029,Michigan,Charlevoix County,False,False,False
+522,26031,Michigan,Cheboygan County,False,False,False
+523,26033,Michigan,Chippewa County,False,False,False
+524,26035,Michigan,Clare County,False,False,False
+525,26037,Michigan,Clinton County,False,False,False
+526,26039,Michigan,Crawford County,False,False,False
+527,26041,Michigan,Delta County,False,False,False
+528,26043,Michigan,Dickinson County,False,False,False
+529,26045,Michigan,Eaton County,False,False,False
+530,26047,Michigan,Emmet County,False,False,False
+531,26049,Michigan,Genesee County,False,False,False
+532,26051,Michigan,Gladwin County,False,False,False
+533,26053,Michigan,Gogebic County,False,False,False
+534,26055,Michigan,Grand Traverse County,False,False,False
+535,26057,Michigan,Gratiot County,False,False,False
+536,26059,Michigan,Hillsdale County,False,False,False
+537,26061,Michigan,Houghton County,False,False,False
+538,26063,Michigan,Huron County,False,False,False
+539,26065,Michigan,Ingham County,False,False,False
+540,26067,Michigan,Ionia County,False,False,False
+541,26069,Michigan,Iosco County,False,False,False
+542,26071,Michigan,Iron County,False,False,False
+543,26073,Michigan,Isabella County,False,False,False
+544,26075,Michigan,Jackson County,False,False,False
+545,26077,Michigan,Kalamazoo County,False,False,False
+546,26079,Michigan,Kalkaska County,False,False,False
+547,26081,Michigan,Kent County,False,False,False
+548,26083,Michigan,Keweenaw County,False,False,False
+549,26085,Michigan,Lake County,False,False,False
+550,26087,Michigan,Lapeer County,False,False,False
+551,26089,Michigan,Leelanau County,False,False,False
+552,26091,Michigan,Lenawee County,False,False,False
+553,26093,Michigan,Livingston County,False,False,False
+554,26095,Michigan,Luce County,False,False,False
+555,26097,Michigan,Mackinac County,False,False,False
+556,26099,Michigan,Macomb County,False,False,False
+557,26101,Michigan,Manistee County,False,False,False
+558,26103,Michigan,Marquette County,False,False,False
+559,26105,Michigan,Mason County,False,False,False
+560,26107,Michigan,Mecosta County,False,False,False
+561,26109,Michigan,Menominee County,False,False,False
+562,26111,Michigan,Midland County,False,False,False
+563,26113,Michigan,Missaukee County,False,False,False
+564,26115,Michigan,Monroe County,False,False,False
+565,26117,Michigan,Montcalm County,False,False,False
+566,26119,Michigan,Montmorency County,False,False,False
+567,26121,Michigan,Muskegon County,False,False,False
+568,26123,Michigan,Newaygo County,False,False,False
+569,26125,Michigan,Oakland County,False,False,False
+570,26127,Michigan,Oceana County,False,False,False
+571,26129,Michigan,Ogemaw County,False,False,False
+572,26131,Michigan,Ontonagon County,False,False,False
+573,26133,Michigan,Osceola County,False,False,False
+574,26135,Michigan,Oscoda County,False,False,False
+575,26137,Michigan,Otsego County,False,False,False
+576,26139,Michigan,Ottawa County,False,False,False
+577,26141,Michigan,Presque Isle County,False,False,False
+578,26143,Michigan,Roscommon County,False,False,False
+579,26145,Michigan,Saginaw County,False,False,False
+580,26147,Michigan,St. Clair County,False,False,False
+581,26149,Michigan,St. Joseph County,False,False,False
+582,26151,Michigan,Sanilac County,False,False,False
+583,26153,Michigan,Schoolcraft County,False,False,False
+584,26155,Michigan,Shiawassee County,False,False,False
+585,26157,Michigan,Tuscola County,False,False,False
+586,26159,Michigan,Van Buren County,False,False,False
+587,26161,Michigan,Washtenaw County,False,False,False
+588,26163,Michigan,Wayne County,False,False,False
+589,26165,Michigan,Wexford County,False,False,False
+590,27001,Minnesota,Aitkin County,False,False,False
+591,27003,Minnesota,Anoka County,False,False,False
+592,27005,Minnesota,Becker County,False,False,False
+593,27007,Minnesota,Beltrami County,False,False,False
+594,27009,Minnesota,Benton County,False,False,False
+595,27011,Minnesota,Big Stone County,False,False,False
+596,27013,Minnesota,Blue Earth County,False,False,False
+597,27015,Minnesota,Brown County,False,False,False
+598,27017,Minnesota,Carlton County,False,False,False
+599,27019,Minnesota,Carver County,False,False,False
+600,27021,Minnesota,Cass County,False,False,False
+601,27023,Minnesota,Chippewa County,False,False,False
+602,27025,Minnesota,Chisago County,False,False,False
+603,27027,Minnesota,Clay County,False,False,False
+604,27029,Minnesota,Clearwater County,False,False,False
+605,27031,Minnesota,Cook County,False,False,False
+606,27033,Minnesota,Cottonwood County,False,False,False
+607,27035,Minnesota,Crow Wing County,False,False,False
+608,27037,Minnesota,Dakota County,False,False,False
+609,27039,Minnesota,Dodge County,False,False,False
+610,27041,Minnesota,Douglas County,False,False,False
+611,27043,Minnesota,Faribault County,False,False,False
+612,27045,Minnesota,Fillmore County,False,False,False
+613,27047,Minnesota,Freeborn County,False,False,False
+614,27049,Minnesota,Goodhue County,False,False,False
+615,27051,Minnesota,Grant County,False,False,False
+616,27053,Minnesota,Hennepin County,False,False,False
+617,27055,Minnesota,Houston County,False,False,False
+618,27057,Minnesota,Hubbard County,False,False,False
+619,27059,Minnesota,Isanti County,False,False,False
+620,27061,Minnesota,Itasca County,False,False,False
+621,27063,Minnesota,Jackson County,False,False,False
+622,27065,Minnesota,Kanabec County,False,False,False
+623,27067,Minnesota,Kandiyohi County,False,False,False
+624,27069,Minnesota,Kittson County,False,False,False
+625,27071,Minnesota,Koochiching County,False,False,False
+626,27073,Minnesota,Lac qui Parle County,False,False,False
+627,27075,Minnesota,Lake County,False,False,False
+628,27077,Minnesota,Lake of the Woods County,False,False,False
+629,27079,Minnesota,Le Sueur County,False,False,False
+630,27081,Minnesota,Lincoln County,False,False,False
+631,27083,Minnesota,Lyon County,False,False,False
+632,27085,Minnesota,McLeod County,False,False,False
+633,27087,Minnesota,Mahnomen County,False,False,False
+634,27089,Minnesota,Marshall County,False,False,False
+635,27091,Minnesota,Martin County,False,False,False
+636,27093,Minnesota,Meeker County,False,False,False
+637,27095,Minnesota,Mille Lacs County,False,False,False
+638,27097,Minnesota,Morrison County,False,False,False
+639,27099,Minnesota,Mower County,False,False,False
+640,27101,Minnesota,Murray County,False,False,False
+641,27103,Minnesota,Nicollet County,False,False,False
+642,27105,Minnesota,Nobles County,False,False,False
+643,27107,Minnesota,Norman County,False,False,False
+644,27109,Minnesota,Olmsted County,False,False,False
+645,27111,Minnesota,Otter Tail County,False,False,False
+646,27113,Minnesota,Pennington County,False,False,False
+647,27115,Minnesota,Pine County,False,False,False
+648,27117,Minnesota,Pipestone County,False,False,False
+649,27119,Minnesota,Polk County,False,False,False
+650,27121,Minnesota,Pope County,False,False,False
+651,27123,Minnesota,Ramsey County,False,False,False
+652,27125,Minnesota,Red Lake County,False,False,False
+653,27127,Minnesota,Redwood County,False,False,False
+654,27129,Minnesota,Renville County,False,False,False
+655,27131,Minnesota,Rice County,False,False,False
+656,27133,Minnesota,Rock County,False,False,False
+657,27135,Minnesota,Roseau County,False,False,False
+658,27137,Minnesota,St. Louis County,False,False,False
+659,27139,Minnesota,Scott County,False,False,False
+660,27141,Minnesota,Sherburne County,False,False,False
+661,27143,Minnesota,Sibley County,False,False,False
+662,27145,Minnesota,Stearns County,False,False,False
+663,27147,Minnesota,Steele County,False,False,False
+664,27149,Minnesota,Stevens County,False,False,False
+665,27151,Minnesota,Swift County,False,False,False
+666,27153,Minnesota,Todd County,False,False,False
+667,27155,Minnesota,Traverse County,False,False,False
+668,27157,Minnesota,Wabasha County,False,False,False
+669,27159,Minnesota,Wadena County,False,False,False
+670,27161,Minnesota,Waseca County,False,False,False
+671,27163,Minnesota,Washington County,False,False,False
+672,27165,Minnesota,Watonwan County,False,False,False
+673,27167,Minnesota,Wilkin County,False,False,False
+674,27169,Minnesota,Winona County,False,False,False
+675,27171,Minnesota,Wright County,False,False,False
+676,27173,Minnesota,Yellow Medicine County,False,False,False
+677,28001,Mississippi,Adams County,False,False,False
+678,28003,Mississippi,Alcorn County,False,False,False
+679,28005,Mississippi,Amite County,False,False,False
+680,28007,Mississippi,Attala County,False,False,False
+681,28009,Mississippi,Benton County,False,False,False
+682,28011,Mississippi,Bolivar County,False,False,False
+683,28013,Mississippi,Calhoun County,False,False,False
+684,28015,Mississippi,Carroll County,False,False,False
+685,28017,Mississippi,Chickasaw County,False,False,False
+686,28019,Mississippi,Choctaw County,False,False,False
+687,28021,Mississippi,Claiborne County,False,False,False
+688,28023,Mississippi,Clarke County,False,False,False
+689,28025,Mississippi,Clay County,False,False,False
+690,28027,Mississippi,Coahoma County,False,False,False
+691,28029,Mississippi,Copiah County,False,False,False
+692,28031,Mississippi,Covington County,False,False,False
+693,28033,Mississippi,DeSoto County,False,False,False
+694,28035,Mississippi,Forrest County,False,False,False
+695,28037,Mississippi,Franklin County,False,False,False
+696,28039,Mississippi,George County,False,False,False
+697,28041,Mississippi,Greene County,False,False,False
+698,28043,Mississippi,Grenada County,False,False,False
+699,28045,Mississippi,Hancock County,False,False,False
+700,28047,Mississippi,Harrison County,False,False,False
+701,28049,Mississippi,Hinds County,False,False,False
+702,28051,Mississippi,Holmes County,False,False,False
+703,28053,Mississippi,Humphreys County,False,False,False
+704,28055,Mississippi,Issaquena County,False,False,False
+705,28057,Mississippi,Itawamba County,False,False,False
+706,28059,Mississippi,Jackson County,False,False,False
+707,28061,Mississippi,Jasper County,False,False,False
+708,28063,Mississippi,Jefferson County,False,False,False
+709,28065,Mississippi,Jefferson Davis County,False,False,False
+710,28067,Mississippi,Jones County,False,False,False
+711,28069,Mississippi,Kemper County,False,False,False
+712,28071,Mississippi,Lafayette County,False,False,False
+713,28073,Mississippi,Lamar County,False,False,False
+714,28075,Mississippi,Lauderdale County,False,False,False
+715,28077,Mississippi,Lawrence County,False,False,False
+716,28079,Mississippi,Leake County,False,False,False
+717,28081,Mississippi,Lee County,False,False,False
+718,28083,Mississippi,Leflore County,False,False,False
+719,28085,Mississippi,Lincoln County,False,False,False
+720,28087,Mississippi,Lowndes County,False,False,False
+721,28089,Mississippi,Madison County,False,False,False
+722,28091,Mississippi,Marion County,False,False,False
+723,28093,Mississippi,Marshall County,False,False,False
+724,28095,Mississippi,Monroe County,False,False,False
+725,28097,Mississippi,Montgomery County,False,False,False
+726,28099,Mississippi,Neshoba County,False,False,False
+727,28101,Mississippi,Newton County,False,False,False
+728,28103,Mississippi,Noxubee County,False,False,False
+729,28105,Mississippi,Oktibbeha County,False,False,False
+730,28107,Mississippi,Panola County,False,False,False
+731,28109,Mississippi,Pearl River County,False,False,False
+732,28111,Mississippi,Perry County,False,False,False
+733,28113,Mississippi,Pike County,False,False,False
+734,28115,Mississippi,Pontotoc County,False,False,False
+735,28117,Mississippi,Prentiss County,False,False,False
+736,28119,Mississippi,Quitman County,False,False,False
+737,28121,Mississippi,Rankin County,False,False,False
+738,28123,Mississippi,Scott County,False,False,False
+739,28125,Mississippi,Sharkey County,False,False,False
+740,28127,Mississippi,Simpson County,False,False,False
+741,28129,Mississippi,Smith County,False,False,False
+742,28131,Mississippi,Stone County,False,False,False
+743,28133,Mississippi,Sunflower County,False,False,False
+744,28135,Mississippi,Tallahatchie County,False,False,False
+745,28137,Mississippi,Tate County,False,False,False
+746,28139,Mississippi,Tippah County,False,False,False
+747,28141,Mississippi,Tishomingo County,False,False,False
+748,28143,Mississippi,Tunica County,False,False,False
+749,28145,Mississippi,Union County,False,False,False
+750,28147,Mississippi,Walthall County,False,False,False
+751,28149,Mississippi,Warren County,False,False,False
+752,28151,Mississippi,Washington County,False,False,False
+753,28153,Mississippi,Wayne County,False,False,False
+754,28155,Mississippi,Webster County,False,False,False
+755,28157,Mississippi,Wilkinson County,False,False,False
+756,28159,Mississippi,Winston County,False,False,False
+757,28161,Mississippi,Yalobusha County,False,False,False
+758,28163,Mississippi,Yazoo County,False,False,False
+759,29001,Missouri,Adair County,False,False,False
+760,29003,Missouri,Andrew County,False,False,False
+761,29005,Missouri,Atchison County,False,False,False
+762,29007,Missouri,Audrain County,False,False,False
+763,29009,Missouri,Barry County,False,False,False
+764,29011,Missouri,Barton County,False,False,False
+765,29013,Missouri,Bates County,False,False,False
+766,29015,Missouri,Benton County,False,False,False
+767,29017,Missouri,Bollinger County,False,False,False
+768,29019,Missouri,Boone County,False,False,False
+769,29021,Missouri,Buchanan County,False,False,False
+770,29023,Missouri,Butler County,False,False,False
+771,29025,Missouri,Caldwell County,False,False,False
+772,29027,Missouri,Callaway County,False,False,False
+773,29029,Missouri,Camden County,False,False,False
+774,29031,Missouri,Cape Girardeau County,False,False,False
+775,29033,Missouri,Carroll County,False,False,False
+776,29035,Missouri,Carter County,False,False,False
+777,29037,Missouri,Cass County,False,False,False
+778,29039,Missouri,Cedar County,False,False,False
+779,29041,Missouri,Chariton County,False,False,False
+780,29043,Missouri,Christian County,False,False,False
+781,29045,Missouri,Clark County,False,False,False
+782,29047,Missouri,Clay County,False,False,False
+783,29049,Missouri,Clinton County,False,False,False
+784,29051,Missouri,Cole County,False,False,False
+785,29053,Missouri,Cooper County,False,False,False
+786,29055,Missouri,Crawford County,False,False,False
+787,29057,Missouri,Dade County,False,False,False
+788,29059,Missouri,Dallas County,False,False,False
+789,29061,Missouri,Daviess County,False,False,False
+790,29063,Missouri,DeKalb County,False,False,False
+791,29065,Missouri,Dent County,False,False,False
+792,29067,Missouri,Douglas County,False,False,False
+793,29069,Missouri,Dunklin County,False,False,False
+794,29071,Missouri,Franklin County,False,False,False
+795,29073,Missouri,Gasconade County,False,False,False
+796,29075,Missouri,Gentry County,False,False,False
+797,29077,Missouri,Greene County,False,False,False
+798,29079,Missouri,Grundy County,False,False,False
+799,29081,Missouri,Harrison County,False,False,False
+800,29083,Missouri,Henry County,False,False,False
+801,29085,Missouri,Hickory County,False,False,False
+802,29087,Missouri,Holt County,False,False,False
+803,29089,Missouri,Howard County,False,False,False
+804,29091,Missouri,Howell County,False,False,False
+805,29093,Missouri,Iron County,False,False,False
+806,29095,Missouri,Jackson County,False,False,False
+807,29097,Missouri,Jasper County,False,False,False
+808,29099,Missouri,Jefferson County,False,False,False
+809,29101,Missouri,Johnson County,False,False,False
+810,29103,Missouri,Knox County,False,False,False
+811,29105,Missouri,Laclede County,False,False,False
+812,29107,Missouri,Lafayette County,False,False,False
+813,29109,Missouri,Lawrence County,False,False,False
+814,29111,Missouri,Lewis County,False,False,False
+815,29113,Missouri,Lincoln County,False,False,False
+816,29115,Missouri,Linn County,False,False,False
+817,29117,Missouri,Livingston County,False,False,False
+818,29119,Missouri,McDonald County,False,False,False
+819,29121,Missouri,Macon County,False,False,False
+820,29123,Missouri,Madison County,False,False,False
+821,29125,Missouri,Maries County,False,False,False
+822,29127,Missouri,Marion County,False,False,False
+823,29129,Missouri,Mercer County,False,False,False
+824,29131,Missouri,Miller County,False,False,False
+825,29133,Missouri,Mississippi County,False,False,False
+826,29135,Missouri,Moniteau County,False,False,False
+827,29137,Missouri,Monroe County,False,False,False
+828,29139,Missouri,Montgomery County,False,False,False
+829,29141,Missouri,Morgan County,False,False,False
+830,29143,Missouri,New Madrid County,False,False,False
+831,29145,Missouri,Newton County,False,False,False
+832,29147,Missouri,Nodaway County,False,False,False
+833,29149,Missouri,Oregon County,False,False,False
+834,29151,Missouri,Osage County,False,False,False
+835,29153,Missouri,Ozark County,False,False,False
+836,29155,Missouri,Pemiscot County,False,False,False
+837,29157,Missouri,Perry County,False,False,False
+838,29159,Missouri,Pettis County,False,False,False
+839,29161,Missouri,Phelps County,False,False,False
+840,29163,Missouri,Pike County,False,False,False
+841,29165,Missouri,Platte County,False,False,False
+842,29167,Missouri,Polk County,False,False,False
+843,29169,Missouri,Pulaski County,False,False,False
+844,29171,Missouri,Putnam County,False,False,False
+845,29173,Missouri,Ralls County,False,False,False
+846,29175,Missouri,Randolph County,False,False,False
+847,29177,Missouri,Ray County,False,False,False
+848,29179,Missouri,Reynolds County,False,False,False
+849,29181,Missouri,Ripley County,False,False,False
+850,29183,Missouri,St. Charles County,False,False,False
+851,29185,Missouri,St. Clair County,False,False,False
+852,29186,Missouri,Ste. Genevieve County,False,False,False
+853,29187,Missouri,St. Francois County,False,False,False
+854,29189,Missouri,St. Louis County,False,False,False
+855,29195,Missouri,Saline County,False,False,False
+856,29197,Missouri,Schuyler County,False,False,False
+857,29199,Missouri,Scotland County,False,False,False
+858,29201,Missouri,Scott County,False,False,False
+859,29203,Missouri,Shannon County,False,False,False
+860,29205,Missouri,Shelby County,False,False,False
+861,29207,Missouri,Stoddard County,False,False,False
+862,29209,Missouri,Stone County,False,False,False
+863,29211,Missouri,Sullivan County,False,False,False
+864,29213,Missouri,Taney County,False,False,False
+865,29215,Missouri,Texas County,False,False,False
+866,29217,Missouri,Vernon County,False,False,False
+867,29219,Missouri,Warren County,False,False,False
+868,29221,Missouri,Washington County,False,False,False
+869,29223,Missouri,Wayne County,False,False,False
+870,29225,Missouri,Webster County,False,False,False
+871,29227,Missouri,Worth County,False,False,False
+872,29229,Missouri,Wright County,False,False,False
+873,29510,Missouri,St. Louis city,False,False,False
+874,30001,Montana,Beaverhead County,False,False,False
+875,30003,Montana,Big Horn County,False,False,False
+876,30005,Montana,Blaine County,False,False,False
+877,30007,Montana,Broadwater County,False,False,False
+878,30009,Montana,Carbon County,False,False,False
+879,30011,Montana,Carter County,False,False,False
+880,30013,Montana,Cascade County,False,False,False
+881,30015,Montana,Chouteau County,False,False,False
+882,30017,Montana,Custer County,False,False,False
+883,30019,Montana,Daniels County,False,False,False
+884,30021,Montana,Dawson County,False,False,False
+885,30023,Montana,Deer Lodge County,False,False,False
+886,30025,Montana,Fallon County,False,False,False
+887,30027,Montana,Fergus County,False,False,False
+888,30029,Montana,Flathead County,False,False,False
+889,30031,Montana,Gallatin County,False,False,False
+890,30033,Montana,Garfield County,False,False,False
+891,30035,Montana,Glacier County,False,False,False
+892,30037,Montana,Golden Valley County,False,False,False
+893,30039,Montana,Granite County,False,False,False
+894,30041,Montana,Hill County,False,False,False
+895,30043,Montana,Jefferson County,False,False,False
+896,30045,Montana,Judith Basin County,False,False,False
+897,30047,Montana,Lake County,False,False,False
+898,30049,Montana,Lewis and Clark County,False,False,False
+899,30051,Montana,Liberty County,False,False,False
+900,30053,Montana,Lincoln County,False,False,False
+901,30055,Montana,McCone County,False,False,False
+902,30057,Montana,Madison County,False,False,False
+903,30059,Montana,Meagher County,False,False,False
+904,30061,Montana,Mineral County,False,False,False
+905,30063,Montana,Missoula County,False,False,False
+906,30065,Montana,Musselshell County,False,False,False
+907,30067,Montana,Park County,False,False,False
+908,30069,Montana,Petroleum County,False,False,False
+909,30071,Montana,Phillips County,False,False,False
+910,30073,Montana,Pondera County,False,False,False
+911,30075,Montana,Powder River County,False,False,False
+912,30077,Montana,Powell County,False,False,False
+913,30079,Montana,Prairie County,False,False,False
+914,30081,Montana,Ravalli County,False,False,False
+915,30083,Montana,Richland County,False,False,False
+916,30085,Montana,Roosevelt County,False,False,False
+917,30087,Montana,Rosebud County,False,False,False
+918,30089,Montana,Sanders County,False,False,False
+919,30091,Montana,Sheridan County,False,False,False
+920,30093,Montana,Silver Bow County,False,False,False
+921,30095,Montana,Stillwater County,False,False,False
+922,30097,Montana,Sweet Grass County,False,False,False
+923,30099,Montana,Teton County,False,False,False
+924,30101,Montana,Toole County,False,False,False
+925,30103,Montana,Treasure County,False,False,False
+926,30105,Montana,Valley County,False,False,False
+927,30107,Montana,Wheatland County,False,False,False
+928,30109,Montana,Wibaux County,False,False,False
+929,30111,Montana,Yellowstone County,False,False,False
+930,31001,Nebraska,Adams County,False,False,False
+931,31003,Nebraska,Antelope County,False,False,False
+932,31005,Nebraska,Arthur County,False,False,False
+933,31007,Nebraska,Banner County,False,False,False
+934,31009,Nebraska,Blaine County,False,False,False
+935,31011,Nebraska,Boone County,False,False,False
+936,31013,Nebraska,Box Butte County,False,False,False
+937,31015,Nebraska,Boyd County,False,False,False
+938,31017,Nebraska,Brown County,False,False,False
+939,31019,Nebraska,Buffalo County,False,False,False
+940,31021,Nebraska,Burt County,False,False,False
+941,31023,Nebraska,Butler County,False,False,False
+942,31025,Nebraska,Cass County,False,False,False
+943,31027,Nebraska,Cedar County,False,False,False
+944,31029,Nebraska,Chase County,False,False,False
+945,31031,Nebraska,Cherry County,False,False,False
+946,31033,Nebraska,Cheyenne County,False,False,False
+947,31035,Nebraska,Clay County,False,False,False
+948,31037,Nebraska,Colfax County,False,False,False
+949,31039,Nebraska,Cuming County,False,False,False
+950,31041,Nebraska,Custer County,False,False,False
+951,31043,Nebraska,Dakota County,False,False,False
+952,31045,Nebraska,Dawes County,False,False,False
+953,31047,Nebraska,Dawson County,False,False,False
+954,31049,Nebraska,Deuel County,False,False,False
+955,31051,Nebraska,Dixon County,False,False,False
+956,31053,Nebraska,Dodge County,False,False,False
+957,31055,Nebraska,Douglas County,False,False,False
+958,31057,Nebraska,Dundy County,False,False,False
+959,31059,Nebraska,Fillmore County,False,False,False
+960,31061,Nebraska,Franklin County,False,False,False
+961,31063,Nebraska,Frontier County,False,False,False
+962,31065,Nebraska,Furnas County,False,False,False
+963,31067,Nebraska,Gage County,False,False,False
+964,31069,Nebraska,Garden County,False,False,False
+965,31071,Nebraska,Garfield County,False,False,False
+966,31073,Nebraska,Gosper County,False,False,False
+967,31075,Nebraska,Grant County,False,False,False
+968,31077,Nebraska,Greeley County,False,False,False
+969,31079,Nebraska,Hall County,False,False,False
+970,31081,Nebraska,Hamilton County,False,False,False
+971,31083,Nebraska,Harlan County,False,False,False
+972,31085,Nebraska,Hayes County,False,False,False
+973,31087,Nebraska,Hitchcock County,False,False,False
+974,31089,Nebraska,Holt County,False,False,False
+975,31091,Nebraska,Hooker County,False,False,False
+976,31093,Nebraska,Howard County,False,False,False
+977,31095,Nebraska,Jefferson County,False,False,False
+978,31097,Nebraska,Johnson County,False,False,False
+979,31099,Nebraska,Kearney County,False,False,False
+980,31101,Nebraska,Keith County,False,False,False
+981,31103,Nebraska,Keya Paha County,False,False,False
+982,31105,Nebraska,Kimball County,False,False,False
+983,31107,Nebraska,Knox County,False,False,False
+984,31109,Nebraska,Lancaster County,False,False,False
+985,31111,Nebraska,Lincoln County,False,False,False
+986,31113,Nebraska,Logan County,False,False,False
+987,31115,Nebraska,Loup County,False,False,False
+988,31117,Nebraska,McPherson County,False,False,False
+989,31119,Nebraska,Madison County,False,False,False
+990,31121,Nebraska,Merrick County,False,False,False
+991,31123,Nebraska,Morrill County,False,False,False
+992,31125,Nebraska,Nance County,False,False,False
+993,31127,Nebraska,Nemaha County,False,False,False
+994,31129,Nebraska,Nuckolls County,False,False,False
+995,31131,Nebraska,Otoe County,False,False,False
+996,31133,Nebraska,Pawnee County,False,False,False
+997,31135,Nebraska,Perkins County,False,False,False
+998,31137,Nebraska,Phelps County,False,False,False
+999,31139,Nebraska,Pierce County,False,False,False
+1000,31141,Nebraska,Platte County,False,False,False
+1001,31143,Nebraska,Polk County,False,False,False
+1002,31145,Nebraska,Red Willow County,False,False,False
+1003,31147,Nebraska,Richardson County,False,False,False
+1004,31149,Nebraska,Rock County,False,False,False
+1005,31151,Nebraska,Saline County,False,False,False
+1006,31153,Nebraska,Sarpy County,False,False,False
+1007,31155,Nebraska,Saunders County,False,False,False
+1008,31157,Nebraska,Scotts Bluff County,False,False,False
+1009,31159,Nebraska,Seward County,False,False,False
+1010,31161,Nebraska,Sheridan County,False,False,False
+1011,31163,Nebraska,Sherman County,False,False,False
+1012,31165,Nebraska,Sioux County,False,False,False
+1013,31167,Nebraska,Stanton County,False,False,False
+1014,31169,Nebraska,Thayer County,False,False,False
+1015,31171,Nebraska,Thomas County,False,False,False
+1016,31173,Nebraska,Thurston County,False,False,False
+1017,31175,Nebraska,Valley County,False,False,False
+1018,31177,Nebraska,Washington County,False,False,False
+1019,31179,Nebraska,Wayne County,False,False,False
+1020,31181,Nebraska,Webster County,False,False,False
+1021,31183,Nebraska,Wheeler County,False,False,False
+1022,31185,Nebraska,York County,False,False,False
+1023,32001,Nevada,Churchill County,False,False,False
+1024,32003,Nevada,Clark County,False,False,False
+1025,32005,Nevada,Douglas County,False,False,False
+1026,32007,Nevada,Elko County,False,False,False
+1027,32009,Nevada,Esmeralda County,False,False,False
+1028,32011,Nevada,Eureka County,False,False,False
+1029,32013,Nevada,Humboldt County,False,False,False
+1030,32015,Nevada,Lander County,False,False,False
+1031,32017,Nevada,Lincoln County,False,False,False
+1032,32019,Nevada,Lyon County,False,False,False
+1033,32021,Nevada,Mineral County,False,False,False
+1034,32023,Nevada,Nye County,False,False,False
+1035,32027,Nevada,Pershing County,False,False,False
+1036,32029,Nevada,Storey County,False,False,False
+1037,32031,Nevada,Washoe County,False,False,False
+1038,32033,Nevada,White Pine County,False,False,False
+1039,32510,Nevada,Carson City,False,False,False
+1040,33001,New Hampshire,Belknap County,False,False,False
+1041,33003,New Hampshire,Carroll County,False,False,False
+1042,33005,New Hampshire,Cheshire County,False,False,False
+1043,33007,New Hampshire,Coos County,False,False,False
+1044,33009,New Hampshire,Grafton County,False,False,False
+1045,33011,New Hampshire,Hillsborough County,False,False,False
+1046,33013,New Hampshire,Merrimack County,False,False,False
+1047,33015,New Hampshire,Rockingham County,False,False,False
+1048,33017,New Hampshire,Strafford County,False,False,False
+1049,33019,New Hampshire,Sullivan County,False,False,False
+1050,34001,New Jersey,Atlantic County,False,False,False
+1051,34003,New Jersey,Bergen County,False,False,False
+1052,34005,New Jersey,Burlington County,False,False,False
+1053,34007,New Jersey,Camden County,False,False,False
+1054,34009,New Jersey,Cape May County,False,False,False
+1055,34011,New Jersey,Cumberland County,False,False,False
+1056,34013,New Jersey,Essex County,False,False,False
+1057,34015,New Jersey,Gloucester County,False,False,False
+1058,34017,New Jersey,Hudson County,False,False,False
+1059,34019,New Jersey,Hunterdon County,False,False,False
+1060,34021,New Jersey,Mercer County,False,False,False
+1061,34023,New Jersey,Middlesex County,False,False,False
+1062,34025,New Jersey,Monmouth County,False,False,False
+1063,34027,New Jersey,Morris County,False,False,False
+1064,34029,New Jersey,Ocean County,False,False,False
+1065,34031,New Jersey,Passaic County,False,False,False
+1066,34033,New Jersey,Salem County,False,False,False
+1067,34035,New Jersey,Somerset County,False,False,False
+1068,34037,New Jersey,Sussex County,False,False,False
+1069,34039,New Jersey,Union County,False,False,False
+1070,34041,New Jersey,Warren County,False,False,False
+1071,35001,New Mexico,Bernalillo County,False,False,False
+1072,35003,New Mexico,Catron County,False,False,False
+1073,35005,New Mexico,Chaves County,False,False,False
+1074,35006,New Mexico,Cibola County,False,False,False
+1075,35007,New Mexico,Colfax County,False,False,False
+1076,35009,New Mexico,Curry County,False,False,False
+1077,35015,New Mexico,Eddy County,False,False,False
+1078,35017,New Mexico,Grant County,False,False,False
+1079,35019,New Mexico,Guadalupe County,False,False,False
+1080,35021,New Mexico,Harding County,False,False,False
+1081,35023,New Mexico,Hidalgo County,False,False,False
+1082,35025,New Mexico,Lea County,False,False,False
+1083,35027,New Mexico,Lincoln County,False,False,False
+1084,35028,New Mexico,Los Alamos County,False,False,False
+1085,35029,New Mexico,Luna County,False,False,False
+1086,35031,New Mexico,McKinley County,False,False,False
+1087,35033,New Mexico,Mora County,False,False,False
+1088,35035,New Mexico,Otero County,False,False,False
+1089,35037,New Mexico,Quay County,False,False,False
+1090,35039,New Mexico,Rio Arriba County,False,False,False
+1091,35041,New Mexico,Roosevelt County,False,False,False
+1092,35043,New Mexico,Sandoval County,False,False,False
+1093,35045,New Mexico,San Juan County,False,False,False
+1094,35047,New Mexico,San Miguel County,False,False,False
+1095,35049,New Mexico,Santa Fe County,False,False,False
+1096,35051,New Mexico,Sierra County,False,False,False
+1097,35053,New Mexico,Socorro County,False,False,False
+1098,35055,New Mexico,Taos County,False,False,False
+1099,35057,New Mexico,Torrance County,False,False,False
+1100,35059,New Mexico,Union County,False,False,False
+1101,35061,New Mexico,Valencia County,False,False,False
+1102,36001,New York,Albany County,False,False,False
+1103,36003,New York,Allegany County,False,False,False
+1104,36005,New York,Bronx County,False,False,False
+1105,36007,New York,Broome County,False,False,False
+1106,36009,New York,Cattaraugus County,False,False,False
+1107,36011,New York,Cayuga County,False,False,False
+1108,36013,New York,Chautauqua County,False,False,False
+1109,36015,New York,Chemung County,False,False,False
+1110,36017,New York,Chenango County,False,False,False
+1111,36019,New York,Clinton County,False,False,False
+1112,36021,New York,Columbia County,False,False,False
+1113,36023,New York,Cortland County,False,False,False
+1114,36025,New York,Delaware County,False,False,False
+1115,36027,New York,Dutchess County,False,False,False
+1116,36029,New York,Erie County,False,False,False
+1117,36031,New York,Essex County,False,False,False
+1118,36033,New York,Franklin County,False,False,False
+1119,36035,New York,Fulton County,False,False,False
+1120,36037,New York,Genesee County,False,False,False
+1121,36039,New York,Greene County,False,False,False
+1122,36041,New York,Hamilton County,False,False,False
+1123,36043,New York,Herkimer County,False,False,False
+1124,36045,New York,Jefferson County,False,False,False
+1125,36047,New York,Kings County,False,False,False
+1126,36049,New York,Lewis County,False,False,False
+1127,36051,New York,Livingston County,False,False,False
+1128,36053,New York,Madison County,False,False,False
+1129,36055,New York,Monroe County,False,False,False
+1130,36057,New York,Montgomery County,False,False,False
+1131,36059,New York,Nassau County,False,False,False
+1132,36061,New York,New York County,False,False,False
+1133,36063,New York,Niagara County,False,False,False
+1134,36065,New York,Oneida County,False,False,False
+1135,36067,New York,Onondaga County,False,False,False
+1136,36069,New York,Ontario County,False,False,False
+1137,36071,New York,Orange County,False,False,False
+1138,36073,New York,Orleans County,False,False,False
+1139,36075,New York,Oswego County,False,False,False
+1140,36077,New York,Otsego County,False,False,False
+1141,36079,New York,Putnam County,False,False,False
+1142,36081,New York,Queens County,False,False,False
+1143,36083,New York,Rensselaer County,False,False,False
+1144,36085,New York,Richmond County,False,False,False
+1145,36087,New York,Rockland County,False,False,False
+1146,36089,New York,St. Lawrence County,False,False,False
+1147,36091,New York,Saratoga County,False,False,False
+1148,36093,New York,Schenectady County,False,False,False
+1149,36095,New York,Schoharie County,False,False,False
+1150,36097,New York,Schuyler County,False,False,False
+1151,36099,New York,Seneca County,False,False,False
+1152,36101,New York,Steuben County,False,False,False
+1153,36103,New York,Suffolk County,False,False,False
+1154,36105,New York,Sullivan County,False,False,False
+1155,36107,New York,Tioga County,False,False,False
+1156,36109,New York,Tompkins County,False,False,False
+1157,36111,New York,Ulster County,False,False,False
+1158,36113,New York,Warren County,False,False,False
+1159,36115,New York,Washington County,False,False,False
+1160,36117,New York,Wayne County,False,False,False
+1161,36119,New York,Westchester County,False,False,False
+1162,36121,New York,Wyoming County,False,False,False
+1163,36123,New York,Yates County,False,False,False
+1164,37001,North Carolina,Alamance County,False,False,False
+1165,37003,North Carolina,Alexander County,False,False,False
+1166,37005,North Carolina,Alleghany County,False,False,False
+1167,37007,North Carolina,Anson County,False,False,False
+1168,37009,North Carolina,Ashe County,False,False,False
+1169,37011,North Carolina,Avery County,False,False,False
+1170,37013,North Carolina,Beaufort County,False,False,False
+1171,37015,North Carolina,Bertie County,False,False,False
+1172,37017,North Carolina,Bladen County,False,False,False
+1173,37019,North Carolina,Brunswick County,False,False,False
+1174,37021,North Carolina,Buncombe County,False,False,False
+1175,37023,North Carolina,Burke County,False,False,False
+1176,37025,North Carolina,Cabarrus County,False,False,False
+1177,37027,North Carolina,Caldwell County,False,False,False
+1178,37029,North Carolina,Camden County,False,False,False
+1179,37031,North Carolina,Carteret County,False,False,False
+1180,37033,North Carolina,Caswell County,False,False,False
+1181,37035,North Carolina,Catawba County,False,False,False
+1182,37037,North Carolina,Chatham County,False,False,False
+1183,37039,North Carolina,Cherokee County,False,False,False
+1184,37041,North Carolina,Chowan County,False,False,False
+1185,37043,North Carolina,Clay County,False,False,False
+1186,37045,North Carolina,Cleveland County,False,False,False
+1187,37047,North Carolina,Columbus County,False,False,False
+1188,37049,North Carolina,Craven County,False,False,False
+1189,37051,North Carolina,Cumberland County,False,False,False
+1190,37053,North Carolina,Currituck County,False,False,False
+1191,37055,North Carolina,Dare County,False,False,False
+1192,37057,North Carolina,Davidson County,False,False,False
+1193,37059,North Carolina,Davie County,False,False,False
+1194,37061,North Carolina,Duplin County,False,False,False
+1195,37063,North Carolina,Durham County,False,False,False
+1196,37065,North Carolina,Edgecombe County,False,False,False
+1197,37067,North Carolina,Forsyth County,False,False,False
+1198,37069,North Carolina,Franklin County,False,False,False
+1199,37071,North Carolina,Gaston County,False,False,False
+1200,37073,North Carolina,Gates County,False,False,False
+1201,37075,North Carolina,Graham County,False,False,False
+1202,37077,North Carolina,Granville County,False,False,False
+1203,37079,North Carolina,Greene County,False,False,False
+1204,37081,North Carolina,Guilford County,False,False,False
+1205,37083,North Carolina,Halifax County,False,False,False
+1206,37085,North Carolina,Harnett County,False,False,False
+1207,37087,North Carolina,Haywood County,False,False,False
+1208,37089,North Carolina,Henderson County,False,False,False
+1209,37091,North Carolina,Hertford County,False,False,False
+1210,37093,North Carolina,Hoke County,False,False,False
+1211,37095,North Carolina,Hyde County,False,False,False
+1212,37097,North Carolina,Iredell County,False,False,False
+1213,37099,North Carolina,Jackson County,False,False,False
+1214,37101,North Carolina,Johnston County,False,False,False
+1215,37103,North Carolina,Jones County,False,False,False
+1216,37105,North Carolina,Lee County,False,False,False
+1217,37107,North Carolina,Lenoir County,False,False,False
+1218,37109,North Carolina,Lincoln County,False,False,False
+1219,37111,North Carolina,McDowell County,False,False,False
+1220,37113,North Carolina,Macon County,False,False,False
+1221,37115,North Carolina,Madison County,False,False,False
+1222,37117,North Carolina,Martin County,False,False,False
+1223,37119,North Carolina,Mecklenburg County,False,False,False
+1224,37121,North Carolina,Mitchell County,False,False,False
+1225,37123,North Carolina,Montgomery County,False,False,False
+1226,37125,North Carolina,Moore County,False,False,False
+1227,37127,North Carolina,Nash County,False,False,False
+1228,37129,North Carolina,New Hanover County,False,False,False
+1229,37131,North Carolina,Northampton County,False,False,False
+1230,37133,North Carolina,Onslow County,False,False,False
+1231,37135,North Carolina,Orange County,False,False,False
+1232,37137,North Carolina,Pamlico County,False,False,False
+1233,37139,North Carolina,Pasquotank County,False,False,False
+1234,37141,North Carolina,Pender County,False,False,False
+1235,37143,North Carolina,Perquimans County,False,False,False
+1236,37145,North Carolina,Person County,False,False,False
+1237,37147,North Carolina,Pitt County,False,False,False
+1238,37149,North Carolina,Polk County,False,False,False
+1239,37151,North Carolina,Randolph County,False,False,False
+1240,37153,North Carolina,Richmond County,False,False,False
+1241,37155,North Carolina,Robeson County,False,False,False
+1242,37157,North Carolina,Rockingham County,False,False,False
+1243,37159,North Carolina,Rowan County,False,False,False
+1244,37161,North Carolina,Rutherford County,False,False,False
+1245,37163,North Carolina,Sampson County,False,False,False
+1246,37165,North Carolina,Scotland County,False,False,False
+1247,37167,North Carolina,Stanly County,False,False,False
+1248,37169,North Carolina,Stokes County,False,False,False
+1249,37171,North Carolina,Surry County,False,False,False
+1250,37173,North Carolina,Swain County,False,False,False
+1251,37175,North Carolina,Transylvania County,False,False,False
+1252,37177,North Carolina,Tyrrell County,False,False,False
+1253,37179,North Carolina,Union County,False,False,False
+1254,37181,North Carolina,Vance County,False,False,False
+1255,37183,North Carolina,Wake County,False,False,False
+1256,37185,North Carolina,Warren County,False,False,False
+1257,37187,North Carolina,Washington County,False,False,False
+1258,37189,North Carolina,Watauga County,False,False,False
+1259,37191,North Carolina,Wayne County,False,False,False
+1260,37193,North Carolina,Wilkes County,False,False,False
+1261,37195,North Carolina,Wilson County,False,False,False
+1262,37197,North Carolina,Yadkin County,False,False,False
+1263,37199,North Carolina,Yancey County,False,False,False
+1264,38001,North Dakota,Adams County,False,False,False
+1265,38003,North Dakota,Barnes County,False,False,False
+1266,38005,North Dakota,Benson County,False,False,False
+1267,38007,North Dakota,Billings County,False,False,False
+1268,38009,North Dakota,Bottineau County,False,False,False
+1269,38011,North Dakota,Bowman County,False,False,False
+1270,38013,North Dakota,Burke County,False,False,False
+1271,38015,North Dakota,Burleigh County,False,False,False
+1272,38017,North Dakota,Cass County,False,False,False
+1273,38019,North Dakota,Cavalier County,False,False,False
+1274,38021,North Dakota,Dickey County,False,False,False
+1275,38023,North Dakota,Divide County,False,False,False
+1276,38025,North Dakota,Dunn County,False,False,False
+1277,38027,North Dakota,Eddy County,False,False,False
+1278,38029,North Dakota,Emmons County,False,False,False
+1279,38031,North Dakota,Foster County,False,False,False
+1280,38033,North Dakota,Golden Valley County,False,False,False
+1281,38035,North Dakota,Grand Forks County,False,False,False
+1282,38037,North Dakota,Grant County,False,False,False
+1283,38039,North Dakota,Griggs County,False,False,False
+1284,38041,North Dakota,Hettinger County,False,False,False
+1285,38043,North Dakota,Kidder County,False,False,False
+1286,38045,North Dakota,LaMoure County,False,False,False
+1287,38047,North Dakota,Logan County,False,False,False
+1288,38049,North Dakota,McHenry County,False,False,False
+1289,38051,North Dakota,McIntosh County,False,False,False
+1290,38053,North Dakota,McKenzie County,False,False,False
+1291,38055,North Dakota,McLean County,False,False,False
+1292,38057,North Dakota,Mercer County,False,False,False
+1293,38059,North Dakota,Morton County,False,False,False
+1294,38061,North Dakota,Mountrail County,False,False,False
+1295,38063,North Dakota,Nelson County,False,False,False
+1296,38065,North Dakota,Oliver County,False,False,False
+1297,38067,North Dakota,Pembina County,False,False,False
+1298,38069,North Dakota,Pierce County,False,False,False
+1299,38071,North Dakota,Ramsey County,False,False,False
+1300,38073,North Dakota,Ransom County,False,False,False
+1301,38075,North Dakota,Renville County,False,False,False
+1302,38077,North Dakota,Richland County,False,False,False
+1303,38079,North Dakota,Rolette County,False,False,False
+1304,38081,North Dakota,Sargent County,False,False,False
+1305,38083,North Dakota,Sheridan County,False,False,False
+1306,38085,North Dakota,Sioux County,False,False,False
+1307,38087,North Dakota,Slope County,False,False,False
+1308,38089,North Dakota,Stark County,False,False,False
+1309,38091,North Dakota,Steele County,False,False,False
+1310,38093,North Dakota,Stutsman County,False,False,False
+1311,38095,North Dakota,Towner County,False,False,False
+1312,38097,North Dakota,Traill County,False,False,False
+1313,38099,North Dakota,Walsh County,False,False,False
+1314,38101,North Dakota,Ward County,False,False,False
+1315,38103,North Dakota,Wells County,False,False,False
+1316,38105,North Dakota,Williams County,False,False,False
+1317,39001,Ohio,Adams County,False,False,False
+1318,39003,Ohio,Allen County,False,False,False
+1319,39005,Ohio,Ashland County,False,False,False
+1320,39007,Ohio,Ashtabula County,False,False,False
+1321,39009,Ohio,Athens County,False,False,False
+1322,39011,Ohio,Auglaize County,False,False,False
+1323,39013,Ohio,Belmont County,False,False,False
+1324,39015,Ohio,Brown County,False,False,False
+1325,39017,Ohio,Butler County,False,False,False
+1326,39019,Ohio,Carroll County,False,False,False
+1327,39021,Ohio,Champaign County,False,False,False
+1328,39023,Ohio,Clark County,False,False,False
+1329,39025,Ohio,Clermont County,False,False,False
+1330,39027,Ohio,Clinton County,False,False,False
+1331,39029,Ohio,Columbiana County,False,False,False
+1332,39031,Ohio,Coshocton County,False,False,False
+1333,39033,Ohio,Crawford County,False,False,False
+1334,39035,Ohio,Cuyahoga County,False,False,False
+1335,39037,Ohio,Darke County,False,False,False
+1336,39039,Ohio,Defiance County,False,False,False
+1337,39041,Ohio,Delaware County,False,False,False
+1338,39043,Ohio,Erie County,False,False,False
+1339,39045,Ohio,Fairfield County,False,False,False
+1340,39047,Ohio,Fayette County,False,False,False
+1341,39049,Ohio,Franklin County,False,False,False
+1342,39051,Ohio,Fulton County,False,False,False
+1343,39053,Ohio,Gallia County,False,False,False
+1344,39055,Ohio,Geauga County,False,False,False
+1345,39057,Ohio,Greene County,False,False,False
+1346,39059,Ohio,Guernsey County,False,False,False
+1347,39061,Ohio,Hamilton County,False,False,False
+1348,39063,Ohio,Hancock County,False,False,False
+1349,39065,Ohio,Hardin County,False,False,False
+1350,39067,Ohio,Harrison County,False,False,False
+1351,39069,Ohio,Henry County,False,False,False
+1352,39071,Ohio,Highland County,False,False,False
+1353,39073,Ohio,Hocking County,False,False,False
+1354,39075,Ohio,Holmes County,False,False,False
+1355,39077,Ohio,Huron County,False,False,False
+1356,39079,Ohio,Jackson County,False,False,False
+1357,39081,Ohio,Jefferson County,False,False,False
+1358,39083,Ohio,Knox County,False,False,False
+1359,39085,Ohio,Lake County,False,False,False
+1360,39087,Ohio,Lawrence County,False,False,False
+1361,39089,Ohio,Licking County,False,False,False
+1362,39091,Ohio,Logan County,False,False,False
+1363,39093,Ohio,Lorain County,False,False,False
+1364,39095,Ohio,Lucas County,False,False,False
+1365,39097,Ohio,Madison County,False,False,False
+1366,39099,Ohio,Mahoning County,False,False,False
+1367,39101,Ohio,Marion County,False,False,False
+1368,39103,Ohio,Medina County,False,False,False
+1369,39105,Ohio,Meigs County,False,False,False
+1370,39107,Ohio,Mercer County,False,False,False
+1371,39109,Ohio,Miami County,False,False,False
+1372,39111,Ohio,Monroe County,False,False,False
+1373,39113,Ohio,Montgomery County,False,False,False
+1374,39115,Ohio,Morgan County,False,False,False
+1375,39117,Ohio,Morrow County,False,False,False
+1376,39119,Ohio,Muskingum County,False,False,False
+1377,39121,Ohio,Noble County,False,False,False
+1378,39123,Ohio,Ottawa County,False,False,False
+1379,39125,Ohio,Paulding County,False,False,False
+1380,39127,Ohio,Perry County,False,False,False
+1381,39129,Ohio,Pickaway County,False,False,False
+1382,39131,Ohio,Pike County,False,False,False
+1383,39133,Ohio,Portage County,False,False,False
+1384,39135,Ohio,Preble County,False,False,False
+1385,39137,Ohio,Putnam County,False,False,False
+1386,39139,Ohio,Richland County,False,False,False
+1387,39141,Ohio,Ross County,False,False,False
+1388,39143,Ohio,Sandusky County,False,False,False
+1389,39145,Ohio,Scioto County,False,False,False
+1390,39147,Ohio,Seneca County,False,False,False
+1391,39149,Ohio,Shelby County,False,False,False
+1392,39151,Ohio,Stark County,False,False,False
+1393,39153,Ohio,Summit County,False,False,False
+1394,39155,Ohio,Trumbull County,False,False,False
+1395,39157,Ohio,Tuscarawas County,False,False,False
+1396,39159,Ohio,Union County,False,False,False
+1397,39161,Ohio,Van Wert County,False,False,False
+1398,39163,Ohio,Vinton County,False,False,False
+1399,39165,Ohio,Warren County,False,False,False
+1400,39167,Ohio,Washington County,False,False,False
+1401,39169,Ohio,Wayne County,False,False,False
+1402,39171,Ohio,Williams County,False,False,False
+1403,39173,Ohio,Wood County,False,False,False
+1404,39175,Ohio,Wyandot County,False,False,False
+1405,40001,Oklahoma,Adair County,False,False,False
+1406,40003,Oklahoma,Alfalfa County,False,False,False
+1407,40005,Oklahoma,Atoka County,False,False,False
+1408,40007,Oklahoma,Beaver County,False,False,False
+1409,40009,Oklahoma,Beckham County,False,False,False
+1410,40011,Oklahoma,Blaine County,False,False,False
+1411,40013,Oklahoma,Bryan County,False,False,False
+1412,40015,Oklahoma,Caddo County,False,False,False
+1413,40017,Oklahoma,Canadian County,False,False,False
+1414,40019,Oklahoma,Carter County,False,False,False
+1415,40021,Oklahoma,Cherokee County,False,False,False
+1416,40023,Oklahoma,Choctaw County,False,False,False
+1417,40025,Oklahoma,Cimarron County,False,False,False
+1418,40027,Oklahoma,Cleveland County,False,False,False
+1419,40029,Oklahoma,Coal County,False,False,False
+1420,40031,Oklahoma,Comanche County,False,False,False
+1421,40033,Oklahoma,Cotton County,False,False,False
+1422,40035,Oklahoma,Craig County,False,False,False
+1423,40037,Oklahoma,Creek County,False,False,False
+1424,40039,Oklahoma,Custer County,False,False,False
+1425,40041,Oklahoma,Delaware County,False,False,False
+1426,40043,Oklahoma,Dewey County,False,False,False
+1427,40045,Oklahoma,Ellis County,False,False,False
+1428,40047,Oklahoma,Garfield County,False,False,False
+1429,40049,Oklahoma,Garvin County,False,False,False
+1430,40051,Oklahoma,Grady County,False,False,False
+1431,40053,Oklahoma,Grant County,False,False,False
+1432,40055,Oklahoma,Greer County,False,False,False
+1433,40057,Oklahoma,Harmon County,False,False,False
+1434,40059,Oklahoma,Harper County,False,False,False
+1435,40061,Oklahoma,Haskell County,False,False,False
+1436,40063,Oklahoma,Hughes County,False,False,False
+1437,40065,Oklahoma,Jackson County,False,False,False
+1438,40067,Oklahoma,Jefferson County,False,False,False
+1439,40069,Oklahoma,Johnston County,False,False,False
+1440,40071,Oklahoma,Kay County,False,False,False
+1441,40073,Oklahoma,Kingfisher County,False,False,False
+1442,40075,Oklahoma,Kiowa County,False,False,False
+1443,40077,Oklahoma,Latimer County,False,False,False
+1444,40079,Oklahoma,Le Flore County,False,False,False
+1445,40081,Oklahoma,Lincoln County,False,False,False
+1446,40083,Oklahoma,Logan County,False,False,False
+1447,40085,Oklahoma,Love County,False,False,False
+1448,40087,Oklahoma,McClain County,False,False,False
+1449,40089,Oklahoma,McCurtain County,False,False,False
+1450,40091,Oklahoma,McIntosh County,False,False,False
+1451,40093,Oklahoma,Major County,False,False,False
+1452,40095,Oklahoma,Marshall County,False,False,False
+1453,40097,Oklahoma,Mayes County,False,False,False
+1454,40099,Oklahoma,Murray County,False,False,False
+1455,40101,Oklahoma,Muskogee County,False,False,False
+1456,40103,Oklahoma,Noble County,False,False,False
+1457,40105,Oklahoma,Nowata County,False,False,False
+1458,40107,Oklahoma,Okfuskee County,False,False,False
+1459,40109,Oklahoma,Oklahoma County,False,False,False
+1460,40111,Oklahoma,Okmulgee County,False,False,False
+1461,40113,Oklahoma,Osage County,False,False,False
+1462,40115,Oklahoma,Ottawa County,False,False,False
+1463,40117,Oklahoma,Pawnee County,False,False,False
+1464,40119,Oklahoma,Payne County,False,False,False
+1465,40121,Oklahoma,Pittsburg County,False,False,False
+1466,40123,Oklahoma,Pontotoc County,False,False,False
+1467,40125,Oklahoma,Pottawatomie County,False,False,False
+1468,40127,Oklahoma,Pushmataha County,False,False,False
+1469,40129,Oklahoma,Roger Mills County,False,False,False
+1470,40131,Oklahoma,Rogers County,False,False,False
+1471,40133,Oklahoma,Seminole County,False,False,False
+1472,40135,Oklahoma,Sequoyah County,False,False,False
+1473,40137,Oklahoma,Stephens County,False,False,False
+1474,40139,Oklahoma,Texas County,False,False,False
+1475,40141,Oklahoma,Tillman County,False,False,False
+1476,40143,Oklahoma,Tulsa County,False,False,False
+1477,40145,Oklahoma,Wagoner County,False,False,False
+1478,40147,Oklahoma,Washington County,False,False,False
+1479,40149,Oklahoma,Washita County,False,False,False
+1480,40151,Oklahoma,Woods County,False,False,False
+1481,40153,Oklahoma,Woodward County,False,False,False
+1482,41001,Oregon,Baker County,False,False,False
+1483,41003,Oregon,Benton County,False,False,False
+1484,41005,Oregon,Clackamas County,False,False,False
+1485,41007,Oregon,Clatsop County,False,False,False
+1486,41009,Oregon,Columbia County,False,False,False
+1487,41011,Oregon,Coos County,False,False,False
+1488,41013,Oregon,Crook County,False,False,False
+1489,41015,Oregon,Curry County,False,False,False
+1490,41017,Oregon,Deschutes County,False,False,False
+1491,41019,Oregon,Douglas County,False,False,False
+1492,41021,Oregon,Gilliam County,False,False,False
+1493,41023,Oregon,Grant County,False,False,False
+1494,41025,Oregon,Harney County,False,False,False
+1495,41027,Oregon,Hood River County,False,False,False
+1496,41029,Oregon,Jackson County,False,False,False
+1497,41031,Oregon,Jefferson County,False,False,False
+1498,41033,Oregon,Josephine County,False,False,False
+1499,41035,Oregon,Klamath County,False,False,False
+1500,41037,Oregon,Lake County,False,False,False
+1501,41039,Oregon,Lane County,False,False,False
+1502,41041,Oregon,Lincoln County,False,False,False
+1503,41043,Oregon,Linn County,False,False,False
+1504,41045,Oregon,Malheur County,False,False,False
+1505,41047,Oregon,Marion County,False,False,False
+1506,41049,Oregon,Morrow County,False,False,False
+1507,41051,Oregon,Multnomah County,False,False,False
+1508,41053,Oregon,Polk County,False,False,False
+1509,41055,Oregon,Sherman County,False,False,False
+1510,41057,Oregon,Tillamook County,False,False,False
+1511,41059,Oregon,Umatilla County,False,False,False
+1512,41061,Oregon,Union County,False,False,False
+1513,41063,Oregon,Wallowa County,False,False,False
+1514,41065,Oregon,Wasco County,False,False,False
+1515,41067,Oregon,Washington County,False,False,False
+1516,41069,Oregon,Wheeler County,False,False,False
+1517,41071,Oregon,Yamhill County,False,False,False
+1518,42001,Pennsylvania,Adams County,False,False,False
+1519,42003,Pennsylvania,Allegheny County,False,False,False
+1520,42005,Pennsylvania,Armstrong County,False,False,False
+1521,42007,Pennsylvania,Beaver County,False,False,False
+1522,42009,Pennsylvania,Bedford County,False,False,False
+1523,42011,Pennsylvania,Berks County,False,False,False
+1524,42013,Pennsylvania,Blair County,False,False,False
+1525,42015,Pennsylvania,Bradford County,False,False,False
+1526,42017,Pennsylvania,Bucks County,False,False,False
+1527,42019,Pennsylvania,Butler County,False,False,False
+1528,42021,Pennsylvania,Cambria County,False,False,False
+1529,42023,Pennsylvania,Cameron County,False,False,False
+1530,42025,Pennsylvania,Carbon County,False,False,False
+1531,42027,Pennsylvania,Centre County,False,False,False
+1532,42029,Pennsylvania,Chester County,False,False,False
+1533,42031,Pennsylvania,Clarion County,False,False,False
+1534,42033,Pennsylvania,Clearfield County,False,False,False
+1535,42035,Pennsylvania,Clinton County,False,False,False
+1536,42037,Pennsylvania,Columbia County,False,False,False
+1537,42039,Pennsylvania,Crawford County,False,False,False
+1538,42041,Pennsylvania,Cumberland County,False,False,False
+1539,42043,Pennsylvania,Dauphin County,False,False,False
+1540,42045,Pennsylvania,Delaware County,False,False,False
+1541,42047,Pennsylvania,Elk County,False,False,False
+1542,42049,Pennsylvania,Erie County,False,False,False
+1543,42051,Pennsylvania,Fayette County,False,False,False
+1544,42053,Pennsylvania,Forest County,False,False,False
+1545,42055,Pennsylvania,Franklin County,False,False,False
+1546,42057,Pennsylvania,Fulton County,False,False,False
+1547,42059,Pennsylvania,Greene County,False,False,False
+1548,42061,Pennsylvania,Huntingdon County,False,False,False
+1549,42063,Pennsylvania,Indiana County,False,False,False
+1550,42065,Pennsylvania,Jefferson County,False,False,False
+1551,42067,Pennsylvania,Juniata County,False,False,False
+1552,42069,Pennsylvania,Lackawanna County,False,False,False
+1553,42071,Pennsylvania,Lancaster County,False,False,False
+1554,42073,Pennsylvania,Lawrence County,False,False,False
+1555,42075,Pennsylvania,Lebanon County,False,False,False
+1556,42077,Pennsylvania,Lehigh County,False,False,False
+1557,42079,Pennsylvania,Luzerne County,False,False,False
+1558,42081,Pennsylvania,Lycoming County,False,False,False
+1559,42083,Pennsylvania,McKean County,False,False,False
+1560,42085,Pennsylvania,Mercer County,False,False,False
+1561,42087,Pennsylvania,Mifflin County,False,False,False
+1562,42089,Pennsylvania,Monroe County,False,False,False
+1563,42091,Pennsylvania,Montgomery County,False,False,False
+1564,42093,Pennsylvania,Montour County,False,False,False
+1565,42095,Pennsylvania,Northampton County,False,False,False
+1566,42097,Pennsylvania,Northumberland County,False,False,False
+1567,42099,Pennsylvania,Perry County,False,False,False
+1568,42101,Pennsylvania,Philadelphia County,False,False,False
+1569,42103,Pennsylvania,Pike County,False,False,False
+1570,42105,Pennsylvania,Potter County,False,False,False
+1571,42107,Pennsylvania,Schuylkill County,False,False,False
+1572,42109,Pennsylvania,Snyder County,False,False,False
+1573,42111,Pennsylvania,Somerset County,False,False,False
+1574,42113,Pennsylvania,Sullivan County,False,False,False
+1575,42115,Pennsylvania,Susquehanna County,False,False,False
+1576,42117,Pennsylvania,Tioga County,False,False,False
+1577,42119,Pennsylvania,Union County,False,False,False
+1578,42121,Pennsylvania,Venango County,False,False,False
+1579,42123,Pennsylvania,Warren County,False,False,False
+1580,42125,Pennsylvania,Washington County,False,False,False
+1581,42127,Pennsylvania,Wayne County,False,False,False
+1582,42129,Pennsylvania,Westmoreland County,False,False,False
+1583,42131,Pennsylvania,Wyoming County,False,False,False
+1584,42133,Pennsylvania,York County,False,False,False
+1585,44001,Rhode Island,Bristol County,False,False,False
+1586,44003,Rhode Island,Kent County,False,False,False
+1587,44005,Rhode Island,Newport County,False,False,False
+1588,44007,Rhode Island,Providence County,False,False,False
+1589,44009,Rhode Island,Washington County,False,False,False
+1590,45001,South Carolina,Abbeville County,False,False,False
+1591,45003,South Carolina,Aiken County,False,False,False
+1592,45005,South Carolina,Allendale County,False,False,False
+1593,45007,South Carolina,Anderson County,False,False,False
+1594,45009,South Carolina,Bamberg County,False,False,False
+1595,45011,South Carolina,Barnwell County,False,False,False
+1596,45013,South Carolina,Beaufort County,False,False,False
+1597,45015,South Carolina,Berkeley County,False,False,False
+1598,45017,South Carolina,Calhoun County,False,False,False
+1599,45019,South Carolina,Charleston County,False,False,False
+1600,45021,South Carolina,Cherokee County,False,False,False
+1601,45023,South Carolina,Chester County,False,False,False
+1602,45025,South Carolina,Chesterfield County,False,False,False
+1603,45027,South Carolina,Clarendon County,False,False,False
+1604,45029,South Carolina,Colleton County,False,False,False
+1605,45031,South Carolina,Darlington County,False,False,False
+1606,45033,South Carolina,Dillon County,False,False,False
+1607,45035,South Carolina,Dorchester County,False,False,False
+1608,45037,South Carolina,Edgefield County,False,False,False
+1609,45039,South Carolina,Fairfield County,False,False,False
+1610,45041,South Carolina,Florence County,False,False,False
+1611,45043,South Carolina,Georgetown County,False,False,False
+1612,45045,South Carolina,Greenville County,False,False,False
+1613,45047,South Carolina,Greenwood County,False,False,False
+1614,45049,South Carolina,Hampton County,False,False,False
+1615,45051,South Carolina,Horry County,False,False,False
+1616,45053,South Carolina,Jasper County,False,False,False
+1617,45055,South Carolina,Kershaw County,False,False,False
+1618,45057,South Carolina,Lancaster County,False,False,False
+1619,45059,South Carolina,Laurens County,False,False,False
+1620,45061,South Carolina,Lee County,False,False,False
+1621,45063,South Carolina,Lexington County,False,False,False
+1622,45065,South Carolina,McCormick County,False,False,False
+1623,45067,South Carolina,Marion County,False,False,False
+1624,45069,South Carolina,Marlboro County,False,False,False
+1625,45071,South Carolina,Newberry County,False,False,False
+1626,45073,South Carolina,Oconee County,False,False,False
+1627,45075,South Carolina,Orangeburg County,False,False,False
+1628,45077,South Carolina,Pickens County,False,False,False
+1629,45079,South Carolina,Richland County,False,False,False
+1630,45081,South Carolina,Saluda County,False,False,False
+1631,45083,South Carolina,Spartanburg County,False,False,False
+1632,45085,South Carolina,Sumter County,False,False,False
+1633,45087,South Carolina,Union County,False,False,False
+1634,45089,South Carolina,Williamsburg County,False,False,False
+1635,45091,South Carolina,York County,False,False,False
+1636,46003,South Dakota,Aurora County,False,False,False
+1637,46005,South Dakota,Beadle County,False,False,False
+1638,46007,South Dakota,Bennett County,False,False,False
+1639,46009,South Dakota,Bon Homme County,False,False,False
+1640,46011,South Dakota,Brookings County,False,False,False
+1641,46013,South Dakota,Brown County,False,False,False
+1642,46015,South Dakota,Brule County,False,False,False
+1643,46017,South Dakota,Buffalo County,False,False,False
+1644,46019,South Dakota,Butte County,False,False,False
+1645,46021,South Dakota,Campbell County,False,False,False
+1646,46023,South Dakota,Charles Mix County,False,False,False
+1647,46025,South Dakota,Clark County,False,False,False
+1648,46027,South Dakota,Clay County,False,False,False
+1649,46029,South Dakota,Codington County,False,False,False
+1650,46031,South Dakota,Corson County,False,False,False
+1651,46033,South Dakota,Custer County,False,False,False
+1652,46035,South Dakota,Davison County,False,False,False
+1653,46037,South Dakota,Day County,False,False,False
+1654,46039,South Dakota,Deuel County,False,False,False
+1655,46041,South Dakota,Dewey County,False,False,False
+1656,46043,South Dakota,Douglas County,False,False,False
+1657,46045,South Dakota,Edmunds County,False,False,False
+1658,46047,South Dakota,Fall River County,False,False,False
+1659,46049,South Dakota,Faulk County,False,False,False
+1660,46051,South Dakota,Grant County,False,False,False
+1661,46053,South Dakota,Gregory County,False,False,False
+1662,46055,South Dakota,Haakon County,False,False,False
+1663,46057,South Dakota,Hamlin County,False,False,False
+1664,46059,South Dakota,Hand County,False,False,False
+1665,46061,South Dakota,Hanson County,False,False,False
+1666,46063,South Dakota,Harding County,False,False,False
+1667,46065,South Dakota,Hughes County,False,False,False
+1668,46067,South Dakota,Hutchinson County,False,False,False
+1669,46069,South Dakota,Hyde County,False,False,False
+1670,46071,South Dakota,Jackson County,False,False,False
+1671,46073,South Dakota,Jerauld County,False,False,False
+1672,46075,South Dakota,Jones County,False,False,False
+1673,46077,South Dakota,Kingsbury County,False,False,False
+1674,46079,South Dakota,Lake County,False,False,False
+1675,46081,South Dakota,Lawrence County,False,False,False
+1676,46083,South Dakota,Lincoln County,False,False,False
+1677,46085,South Dakota,Lyman County,False,False,False
+1678,46087,South Dakota,McCook County,False,False,False
+1679,46089,South Dakota,McPherson County,False,False,False
+1680,46091,South Dakota,Marshall County,False,False,False
+1681,46093,South Dakota,Meade County,False,False,False
+1682,46095,South Dakota,Mellette County,False,False,False
+1683,46097,South Dakota,Miner County,False,False,False
+1684,46099,South Dakota,Minnehaha County,False,False,False
+1685,46101,South Dakota,Moody County,False,False,False
+1686,46103,South Dakota,Pennington County,False,False,False
+1687,46105,South Dakota,Perkins County,False,False,False
+1688,46107,South Dakota,Potter County,False,False,False
+1689,46109,South Dakota,Roberts County,False,False,False
+1690,46111,South Dakota,Sanborn County,False,False,False
+1691,46113,South Dakota,Shannon County,False,False,False
+1692,46115,South Dakota,Spink County,False,False,False
+1693,46117,South Dakota,Stanley County,False,False,False
+1694,46119,South Dakota,Sully County,False,False,False
+1695,46121,South Dakota,Todd County,False,False,False
+1696,46123,South Dakota,Tripp County,False,False,False
+1697,46125,South Dakota,Turner County,False,False,False
+1698,46127,South Dakota,Union County,False,False,False
+1699,46129,South Dakota,Walworth County,False,False,False
+1700,46135,South Dakota,Yankton County,False,False,False
+1701,46137,South Dakota,Ziebach County,False,False,False
+1702,47001,Tennessee,Anderson County,False,False,False
+1703,47003,Tennessee,Bedford County,False,False,False
+1704,47005,Tennessee,Benton County,False,False,False
+1705,47007,Tennessee,Bledsoe County,False,False,False
+1706,47009,Tennessee,Blount County,False,False,False
+1707,47011,Tennessee,Bradley County,False,False,False
+1708,47013,Tennessee,Campbell County,False,False,False
+1709,47015,Tennessee,Cannon County,False,False,False
+1710,47017,Tennessee,Carroll County,False,False,False
+1711,47019,Tennessee,Carter County,False,False,False
+1712,47021,Tennessee,Cheatham County,False,False,False
+1713,47023,Tennessee,Chester County,False,False,False
+1714,47025,Tennessee,Claiborne County,False,False,False
+1715,47027,Tennessee,Clay County,False,False,False
+1716,47029,Tennessee,Cocke County,False,False,False
+1717,47031,Tennessee,Coffee County,False,False,False
+1718,47033,Tennessee,Crockett County,False,False,False
+1719,47035,Tennessee,Cumberland County,False,False,False
+1720,47037,Tennessee,Davidson County,False,False,False
+1721,47039,Tennessee,Decatur County,False,False,False
+1722,47041,Tennessee,DeKalb County,False,False,False
+1723,47043,Tennessee,Dickson County,False,False,False
+1724,47045,Tennessee,Dyer County,False,False,False
+1725,47047,Tennessee,Fayette County,False,False,False
+1726,47049,Tennessee,Fentress County,False,False,False
+1727,47051,Tennessee,Franklin County,False,False,False
+1728,47053,Tennessee,Gibson County,False,False,False
+1729,47055,Tennessee,Giles County,False,False,False
+1730,47057,Tennessee,Grainger County,False,False,False
+1731,47059,Tennessee,Greene County,False,False,False
+1732,47061,Tennessee,Grundy County,False,False,False
+1733,47063,Tennessee,Hamblen County,False,False,False
+1734,47065,Tennessee,Hamilton County,False,False,False
+1735,47067,Tennessee,Hancock County,False,False,False
+1736,47069,Tennessee,Hardeman County,False,False,False
+1737,47071,Tennessee,Hardin County,False,False,False
+1738,47073,Tennessee,Hawkins County,False,False,False
+1739,47075,Tennessee,Haywood County,False,False,False
+1740,47077,Tennessee,Henderson County,False,False,False
+1741,47079,Tennessee,Henry County,False,False,False
+1742,47081,Tennessee,Hickman County,False,False,False
+1743,47083,Tennessee,Houston County,False,False,False
+1744,47085,Tennessee,Humphreys County,False,False,False
+1745,47087,Tennessee,Jackson County,False,False,False
+1746,47089,Tennessee,Jefferson County,False,False,False
+1747,47091,Tennessee,Johnson County,False,False,False
+1748,47093,Tennessee,Knox County,False,False,False
+1749,47095,Tennessee,Lake County,False,False,False
+1750,47097,Tennessee,Lauderdale County,False,False,False
+1751,47099,Tennessee,Lawrence County,False,False,False
+1752,47101,Tennessee,Lewis County,False,False,False
+1753,47103,Tennessee,Lincoln County,False,False,False
+1754,47105,Tennessee,Loudon County,False,False,False
+1755,47107,Tennessee,McMinn County,False,False,False
+1756,47109,Tennessee,McNairy County,False,False,False
+1757,47111,Tennessee,Macon County,False,False,False
+1758,47113,Tennessee,Madison County,False,False,False
+1759,47115,Tennessee,Marion County,False,False,False
+1760,47117,Tennessee,Marshall County,False,False,False
+1761,47119,Tennessee,Maury County,False,False,False
+1762,47121,Tennessee,Meigs County,False,False,False
+1763,47123,Tennessee,Monroe County,False,False,False
+1764,47125,Tennessee,Montgomery County,False,False,False
+1765,47127,Tennessee,Moore County,False,False,False
+1766,47129,Tennessee,Morgan County,False,False,False
+1767,47131,Tennessee,Obion County,False,False,False
+1768,47133,Tennessee,Overton County,False,False,False
+1769,47135,Tennessee,Perry County,False,False,False
+1770,47137,Tennessee,Pickett County,False,False,False
+1771,47139,Tennessee,Polk County,False,False,False
+1772,47141,Tennessee,Putnam County,False,False,False
+1773,47143,Tennessee,Rhea County,False,False,False
+1774,47145,Tennessee,Roane County,False,False,False
+1775,47147,Tennessee,Robertson County,False,False,False
+1776,47149,Tennessee,Rutherford County,False,False,False
+1777,47151,Tennessee,Scott County,False,False,False
+1778,47153,Tennessee,Sequatchie County,False,False,False
+1779,47155,Tennessee,Sevier County,False,False,False
+1780,47157,Tennessee,Shelby County,False,False,False
+1781,47159,Tennessee,Smith County,False,False,False
+1782,47161,Tennessee,Stewart County,False,False,False
+1783,47163,Tennessee,Sullivan County,False,False,False
+1784,47165,Tennessee,Sumner County,False,False,False
+1785,47167,Tennessee,Tipton County,False,False,False
+1786,47169,Tennessee,Trousdale County,False,False,False
+1787,47171,Tennessee,Unicoi County,False,False,False
+1788,47173,Tennessee,Union County,False,False,False
+1789,47175,Tennessee,Van Buren County,False,False,False
+1790,47177,Tennessee,Warren County,False,False,False
+1791,47179,Tennessee,Washington County,False,False,False
+1792,47181,Tennessee,Wayne County,False,False,False
+1793,47183,Tennessee,Weakley County,False,False,False
+1794,47185,Tennessee,White County,False,False,False
+1795,47187,Tennessee,Williamson County,False,False,False
+1796,47189,Tennessee,Wilson County,False,False,False
+1797,48001,Texas,Anderson County,False,False,False
+1798,48003,Texas,Andrews County,False,False,False
+1799,48005,Texas,Angelina County,False,False,False
+1800,48007,Texas,Aransas County,False,False,False
+1801,48009,Texas,Archer County,False,False,False
+1802,48011,Texas,Armstrong County,False,False,False
+1803,48013,Texas,Atascosa County,False,False,False
+1804,48015,Texas,Austin County,False,False,False
+1805,48017,Texas,Bailey County,False,False,False
+1806,48019,Texas,Bandera County,False,False,False
+1807,48021,Texas,Bastrop County,False,False,False
+1808,48023,Texas,Baylor County,False,False,False
+1809,48025,Texas,Bee County,False,False,False
+1810,48027,Texas,Bell County,False,False,False
+1811,48029,Texas,Bexar County,False,False,False
+1812,48031,Texas,Blanco County,False,False,False
+1813,48033,Texas,Borden County,False,False,False
+1814,48035,Texas,Bosque County,False,False,False
+1815,48037,Texas,Bowie County,False,False,False
+1816,48039,Texas,Brazoria County,False,False,False
+1817,48041,Texas,Brazos County,False,False,False
+1818,48043,Texas,Brewster County,False,False,False
+1819,48045,Texas,Briscoe County,False,False,False
+1820,48047,Texas,Brooks County,False,False,False
+1821,48049,Texas,Brown County,False,False,False
+1822,48051,Texas,Burleson County,False,False,False
+1823,48053,Texas,Burnet County,False,False,False
+1824,48055,Texas,Caldwell County,False,False,False
+1825,48057,Texas,Calhoun County,False,False,False
+1826,48059,Texas,Callahan County,False,False,False
+1827,48061,Texas,Cameron County,False,False,False
+1828,48063,Texas,Camp County,False,False,False
+1829,48065,Texas,Carson County,False,False,False
+1830,48067,Texas,Cass County,False,False,False
+1831,48069,Texas,Castro County,False,False,False
+1832,48071,Texas,Chambers County,False,False,False
+1833,48073,Texas,Cherokee County,False,False,False
+1834,48075,Texas,Childress County,False,False,False
+1835,48077,Texas,Clay County,False,False,False
+1836,48079,Texas,Cochran County,False,False,False
+1837,48081,Texas,Coke County,False,False,False
+1838,48083,Texas,Coleman County,False,False,False
+1839,48085,Texas,Collin County,False,False,False
+1840,48087,Texas,Collingsworth County,False,False,False
+1841,48089,Texas,Colorado County,False,False,False
+1842,48091,Texas,Comal County,False,False,False
+1843,48093,Texas,Comanche County,False,False,False
+1844,48095,Texas,Concho County,False,False,False
+1845,48097,Texas,Cooke County,False,False,False
+1846,48099,Texas,Coryell County,False,False,False
+1847,48101,Texas,Cottle County,False,False,False
+1848,48103,Texas,Crane County,False,False,False
+1849,48105,Texas,Crockett County,False,False,False
+1850,48107,Texas,Crosby County,False,False,False
+1851,48109,Texas,Culberson County,False,False,False
+1852,48111,Texas,Dallam County,False,False,False
+1853,48113,Texas,Dallas County,False,False,False
+1854,48115,Texas,Dawson County,False,False,False
+1855,48117,Texas,Deaf Smith County,False,False,False
+1856,48119,Texas,Delta County,False,False,False
+1857,48121,Texas,Denton County,False,False,False
+1858,48123,Texas,DeWitt County,False,False,False
+1859,48125,Texas,Dickens County,False,False,False
+1860,48127,Texas,Dimmit County,False,False,False
+1861,48129,Texas,Donley County,False,False,False
+1862,48131,Texas,Duval County,False,False,False
+1863,48133,Texas,Eastland County,False,False,False
+1864,48135,Texas,Ector County,False,False,False
+1865,48137,Texas,Edwards County,False,False,False
+1866,48139,Texas,Ellis County,False,False,False
+1867,48141,Texas,El Paso County,False,False,False
+1868,48143,Texas,Erath County,False,False,False
+1869,48145,Texas,Falls County,False,False,False
+1870,48147,Texas,Fannin County,False,False,False
+1871,48149,Texas,Fayette County,False,False,False
+1872,48151,Texas,Fisher County,False,False,False
+1873,48153,Texas,Floyd County,False,False,False
+1874,48155,Texas,Foard County,False,False,False
+1875,48157,Texas,Fort Bend County,False,False,False
+1876,48159,Texas,Franklin County,False,False,False
+1877,48161,Texas,Freestone County,False,False,False
+1878,48163,Texas,Frio County,False,False,False
+1879,48165,Texas,Gaines County,False,False,False
+1880,48167,Texas,Galveston County,False,False,False
+1881,48169,Texas,Garza County,False,False,False
+1882,48171,Texas,Gillespie County,False,False,False
+1883,48173,Texas,Glasscock County,False,False,False
+1884,48175,Texas,Goliad County,False,False,False
+1885,48177,Texas,Gonzales County,False,False,False
+1886,48179,Texas,Gray County,False,False,False
+1887,48181,Texas,Grayson County,False,False,False
+1888,48183,Texas,Gregg County,False,False,False
+1889,48185,Texas,Grimes County,False,False,False
+1890,48187,Texas,Guadalupe County,False,False,False
+1891,48189,Texas,Hale County,False,False,False
+1892,48191,Texas,Hall County,False,False,False
+1893,48193,Texas,Hamilton County,False,False,False
+1894,48195,Texas,Hansford County,False,False,False
+1895,48197,Texas,Hardeman County,False,False,False
+1896,48199,Texas,Hardin County,False,False,False
+1897,48201,Texas,Harris County,False,False,False
+1898,48203,Texas,Harrison County,False,False,False
+1899,48205,Texas,Hartley County,False,False,False
+1900,48207,Texas,Haskell County,False,False,False
+1901,48209,Texas,Hays County,False,False,False
+1902,48211,Texas,Hemphill County,False,False,False
+1903,48213,Texas,Henderson County,False,False,False
+1904,48215,Texas,Hidalgo County,False,False,False
+1905,48217,Texas,Hill County,False,False,False
+1906,48219,Texas,Hockley County,False,False,False
+1907,48221,Texas,Hood County,False,False,False
+1908,48223,Texas,Hopkins County,False,False,False
+1909,48225,Texas,Houston County,False,False,False
+1910,48227,Texas,Howard County,False,False,False
+1911,48229,Texas,Hudspeth County,False,False,False
+1912,48231,Texas,Hunt County,False,False,False
+1913,48233,Texas,Hutchinson County,False,False,False
+1914,48235,Texas,Irion County,False,False,False
+1915,48237,Texas,Jack County,False,False,False
+1916,48239,Texas,Jackson County,False,False,False
+1917,48241,Texas,Jasper County,False,False,False
+1918,48243,Texas,Jeff Davis County,False,False,False
+1919,48245,Texas,Jefferson County,False,False,False
+1920,48247,Texas,Jim Hogg County,False,False,False
+1921,48249,Texas,Jim Wells County,False,False,False
+1922,48251,Texas,Johnson County,False,False,False
+1923,48253,Texas,Jones County,False,False,False
+1924,48255,Texas,Karnes County,False,False,False
+1925,48257,Texas,Kaufman County,False,False,False
+1926,48259,Texas,Kendall County,False,False,False
+1927,48261,Texas,Kenedy County,False,False,False
+1928,48263,Texas,Kent County,False,False,False
+1929,48265,Texas,Kerr County,False,False,False
+1930,48267,Texas,Kimble County,False,False,False
+1931,48269,Texas,King County,False,False,False
+1932,48271,Texas,Kinney County,False,False,False
+1933,48273,Texas,Kleberg County,False,False,False
+1934,48275,Texas,Knox County,False,False,False
+1935,48277,Texas,Lamar County,False,False,False
+1936,48279,Texas,Lamb County,False,False,False
+1937,48281,Texas,Lampasas County,False,False,False
+1938,48283,Texas,La Salle County,False,False,False
+1939,48285,Texas,Lavaca County,False,False,False
+1940,48287,Texas,Lee County,False,False,False
+1941,48289,Texas,Leon County,False,False,False
+1942,48291,Texas,Liberty County,False,False,False
+1943,48293,Texas,Limestone County,False,False,False
+1944,48295,Texas,Lipscomb County,False,False,False
+1945,48297,Texas,Live Oak County,False,False,False
+1946,48299,Texas,Llano County,False,False,False
+1947,48301,Texas,Loving County,False,False,False
+1948,48303,Texas,Lubbock County,False,False,False
+1949,48305,Texas,Lynn County,False,False,False
+1950,48307,Texas,McCulloch County,False,False,False
+1951,48309,Texas,McLennan County,False,False,False
+1952,48311,Texas,McMullen County,False,False,False
+1953,48313,Texas,Madison County,False,False,False
+1954,48315,Texas,Marion County,False,False,False
+1955,48317,Texas,Martin County,False,False,False
+1956,48319,Texas,Mason County,False,False,False
+1957,48321,Texas,Matagorda County,False,False,False
+1958,48323,Texas,Maverick County,False,False,False
+1959,48325,Texas,Medina County,False,False,False
+1960,48327,Texas,Menard County,False,False,False
+1961,48329,Texas,Midland County,False,False,False
+1962,48331,Texas,Milam County,False,False,False
+1963,48333,Texas,Mills County,False,False,False
+1964,48335,Texas,Mitchell County,False,False,False
+1965,48337,Texas,Montague County,False,False,False
+1966,48339,Texas,Montgomery County,False,False,False
+1967,48341,Texas,Moore County,False,False,False
+1968,48343,Texas,Morris County,False,False,False
+1969,48345,Texas,Motley County,False,False,False
+1970,48347,Texas,Nacogdoches County,False,False,False
+1971,48349,Texas,Navarro County,False,False,False
+1972,48351,Texas,Newton County,False,False,False
+1973,48353,Texas,Nolan County,False,False,False
+1974,48355,Texas,Nueces County,False,False,False
+1975,48357,Texas,Ochiltree County,False,False,False
+1976,48359,Texas,Oldham County,False,False,False
+1977,48361,Texas,Orange County,False,False,False
+1978,48363,Texas,Palo Pinto County,False,False,False
+1979,48365,Texas,Panola County,False,False,False
+1980,48367,Texas,Parker County,False,False,False
+1981,48369,Texas,Parmer County,False,False,False
+1982,48371,Texas,Pecos County,False,False,False
+1983,48373,Texas,Polk County,False,False,False
+1984,48375,Texas,Potter County,False,False,False
+1985,48377,Texas,Presidio County,False,False,False
+1986,48379,Texas,Rains County,False,False,False
+1987,48381,Texas,Randall County,False,False,False
+1988,48383,Texas,Reagan County,False,False,False
+1989,48385,Texas,Real County,False,False,False
+1990,48387,Texas,Red River County,False,False,False
+1991,48389,Texas,Reeves County,False,False,False
+1992,48391,Texas,Refugio County,False,False,False
+1993,48393,Texas,Roberts County,False,False,False
+1994,48395,Texas,Robertson County,False,False,False
+1995,48397,Texas,Rockwall County,False,False,False
+1996,48399,Texas,Runnels County,False,False,False
+1997,48401,Texas,Rusk County,False,False,False
+1998,48403,Texas,Sabine County,False,False,False
+1999,48405,Texas,San Augustine County,False,False,False
+2000,48407,Texas,San Jacinto County,False,False,False
+2001,48409,Texas,San Patricio County,False,False,False
+2002,48411,Texas,San Saba County,False,False,False
+2003,48413,Texas,Schleicher County,False,False,False
+2004,48415,Texas,Scurry County,False,False,False
+2005,48417,Texas,Shackelford County,False,False,False
+2006,48419,Texas,Shelby County,False,False,False
+2007,48421,Texas,Sherman County,False,False,False
+2008,48423,Texas,Smith County,False,False,False
+2009,48425,Texas,Somervell County,False,False,False
+2010,48427,Texas,Starr County,False,False,False
+2011,48429,Texas,Stephens County,False,False,False
+2012,48431,Texas,Sterling County,False,False,False
+2013,48433,Texas,Stonewall County,False,False,False
+2014,48435,Texas,Sutton County,False,False,False
+2015,48437,Texas,Swisher County,False,False,False
+2016,48439,Texas,Tarrant County,False,False,False
+2017,48441,Texas,Taylor County,False,False,False
+2018,48443,Texas,Terrell County,False,False,False
+2019,48445,Texas,Terry County,False,False,False
+2020,48447,Texas,Throckmorton County,False,False,False
+2021,48449,Texas,Titus County,False,False,False
+2022,48451,Texas,Tom Green County,False,False,False
+2023,48453,Texas,Travis County,False,False,False
+2024,48455,Texas,Trinity County,False,False,False
+2025,48457,Texas,Tyler County,False,False,False
+2026,48459,Texas,Upshur County,False,False,False
+2027,48461,Texas,Upton County,False,False,False
+2028,48463,Texas,Uvalde County,False,False,False
+2029,48465,Texas,Val Verde County,False,False,False
+2030,48467,Texas,Van Zandt County,False,False,False
+2031,48469,Texas,Victoria County,False,False,False
+2032,48471,Texas,Walker County,False,False,False
+2033,48473,Texas,Waller County,False,False,False
+2034,48475,Texas,Ward County,False,False,False
+2035,48477,Texas,Washington County,False,False,False
+2036,48479,Texas,Webb County,False,False,False
+2037,48481,Texas,Wharton County,False,False,False
+2038,48483,Texas,Wheeler County,False,False,False
+2039,48485,Texas,Wichita County,False,False,False
+2040,48487,Texas,Wilbarger County,False,False,False
+2041,48489,Texas,Willacy County,False,False,False
+2042,48491,Texas,Williamson County,False,False,False
+2043,48493,Texas,Wilson County,False,False,False
+2044,48495,Texas,Winkler County,False,False,False
+2045,48497,Texas,Wise County,False,False,False
+2046,48499,Texas,Wood County,False,False,False
+2047,48501,Texas,Yoakum County,False,False,False
+2048,48503,Texas,Young County,False,False,False
+2049,48505,Texas,Zapata County,False,False,False
+2050,48507,Texas,Zavala County,False,False,False
+2051,49001,Utah,Beaver County,False,False,False
+2052,49003,Utah,Box Elder County,False,False,False
+2053,49005,Utah,Cache County,False,False,False
+2054,49007,Utah,Carbon County,False,False,False
+2055,49009,Utah,Daggett County,False,False,False
+2056,49011,Utah,Davis County,False,False,False
+2057,49013,Utah,Duchesne County,False,False,False
+2058,49015,Utah,Emery County,False,False,False
+2059,49017,Utah,Garfield County,False,False,False
+2060,49019,Utah,Grand County,False,False,False
+2061,49021,Utah,Iron County,False,False,False
+2062,49023,Utah,Juab County,False,False,False
+2063,49025,Utah,Kane County,False,False,False
+2064,49027,Utah,Millard County,False,False,False
+2065,49029,Utah,Morgan County,False,False,False
+2066,49031,Utah,Piute County,False,False,False
+2067,49033,Utah,Rich County,False,False,False
+2068,49035,Utah,Salt Lake County,False,False,False
+2069,49037,Utah,San Juan County,False,False,False
+2070,49039,Utah,Sanpete County,False,False,False
+2071,49041,Utah,Sevier County,False,False,False
+2072,49043,Utah,Summit County,False,False,False
+2073,49045,Utah,Tooele County,False,False,False
+2074,49047,Utah,Uintah County,False,False,False
+2075,49049,Utah,Utah County,False,False,False
+2076,49051,Utah,Wasatch County,False,False,False
+2077,49053,Utah,Washington County,False,False,False
+2078,49055,Utah,Wayne County,False,False,False
+2079,49057,Utah,Weber County,False,False,False
+2080,50001,Vermont,Addison County,False,False,False
+2081,50003,Vermont,Bennington County,False,False,False
+2082,50005,Vermont,Caledonia County,False,False,False
+2083,50007,Vermont,Chittenden County,False,False,False
+2084,50009,Vermont,Essex County,False,False,False
+2085,50011,Vermont,Franklin County,False,False,False
+2086,50013,Vermont,Grand Isle County,False,False,False
+2087,50015,Vermont,Lamoille County,False,False,False
+2088,50017,Vermont,Orange County,False,False,False
+2089,50019,Vermont,Orleans County,False,False,False
+2090,50021,Vermont,Rutland County,False,False,False
+2091,50023,Vermont,Washington County,False,False,False
+2092,50025,Vermont,Windham County,False,False,False
+2093,50027,Vermont,Windsor County,False,False,False
+2094,51001,Virginia,Accomack County,False,False,False
+2095,51003,Virginia,Albemarle County,False,False,False
+2096,51005,Virginia,Alleghany County,False,False,False
+2097,51007,Virginia,Amelia County,False,False,False
+2098,51009,Virginia,Amherst County,False,False,False
+2099,51011,Virginia,Appomattox County,False,False,False
+2100,51013,Virginia,Arlington County,False,False,False
+2101,51015,Virginia,Augusta County,False,False,False
+2102,51017,Virginia,Bath County,False,False,False
+2103,51019,Virginia,Bedford County,False,False,False
+2104,51021,Virginia,Bland County,False,False,False
+2105,51023,Virginia,Botetourt County,False,False,False
+2106,51025,Virginia,Brunswick County,False,False,False
+2107,51027,Virginia,Buchanan County,False,False,False
+2108,51029,Virginia,Buckingham County,False,False,False
+2109,51031,Virginia,Campbell County,False,False,False
+2110,51033,Virginia,Caroline County,False,False,False
+2111,51035,Virginia,Carroll County,False,False,False
+2112,51036,Virginia,Charles City County,False,False,False
+2113,51037,Virginia,Charlotte County,False,False,False
+2114,51041,Virginia,Chesterfield County,False,False,False
+2115,51043,Virginia,Clarke County,False,False,False
+2116,51045,Virginia,Craig County,False,False,False
+2117,51047,Virginia,Culpeper County,False,False,False
+2118,51049,Virginia,Cumberland County,False,False,False
+2119,51051,Virginia,Dickenson County,False,False,False
+2120,51053,Virginia,Dinwiddie County,False,False,False
+2121,51057,Virginia,Essex County,False,False,False
+2122,51059,Virginia,Fairfax County,False,False,False
+2123,51061,Virginia,Fauquier County,False,False,False
+2124,51063,Virginia,Floyd County,False,False,False
+2125,51065,Virginia,Fluvanna County,False,False,False
+2126,51067,Virginia,Franklin County,False,False,False
+2127,51069,Virginia,Frederick County,False,False,False
+2128,51071,Virginia,Giles County,False,False,False
+2129,51073,Virginia,Gloucester County,False,False,False
+2130,51075,Virginia,Goochland County,False,False,False
+2131,51077,Virginia,Grayson County,False,False,False
+2132,51079,Virginia,Greene County,False,False,False
+2133,51081,Virginia,Greensville County,False,False,False
+2134,51083,Virginia,Halifax County,False,False,False
+2135,51085,Virginia,Hanover County,False,False,False
+2136,51087,Virginia,Henrico County,False,False,False
+2137,51089,Virginia,Henry County,False,False,False
+2138,51091,Virginia,Highland County,False,False,False
+2139,51093,Virginia,Isle of Wight County,False,False,False
+2140,51095,Virginia,James City County,False,False,False
+2141,51097,Virginia,King and Queen County,False,False,False
+2142,51099,Virginia,King George County,False,False,False
+2143,51101,Virginia,King William County,False,False,False
+2144,51103,Virginia,Lancaster County,False,False,False
+2145,51105,Virginia,Lee County,False,False,False
+2146,51107,Virginia,Loudoun County,False,False,False
+2147,51109,Virginia,Louisa County,False,False,False
+2148,51111,Virginia,Lunenburg County,False,False,False
+2149,51113,Virginia,Madison County,False,False,False
+2150,51115,Virginia,Mathews County,False,False,False
+2151,51117,Virginia,Mecklenburg County,False,False,False
+2152,51119,Virginia,Middlesex County,False,False,False
+2153,51121,Virginia,Montgomery County,False,False,False
+2154,51125,Virginia,Nelson County,False,False,False
+2155,51127,Virginia,New Kent County,False,False,False
+2156,51131,Virginia,Northampton County,False,False,False
+2157,51133,Virginia,Northumberland County,False,False,False
+2158,51135,Virginia,Nottoway County,False,False,False
+2159,51137,Virginia,Orange County,False,False,False
+2160,51139,Virginia,Page County,False,False,False
+2161,51141,Virginia,Patrick County,False,False,False
+2162,51143,Virginia,Pittsylvania County,False,False,False
+2163,51145,Virginia,Powhatan County,False,False,False
+2164,51147,Virginia,Prince Edward County,False,False,False
+2165,51149,Virginia,Prince George County,False,False,False
+2166,51153,Virginia,Prince William County,False,False,False
+2167,51155,Virginia,Pulaski County,False,False,False
+2168,51157,Virginia,Rappahannock County,False,False,False
+2169,51159,Virginia,Richmond County,False,False,False
+2170,51161,Virginia,Roanoke County,False,False,False
+2171,51163,Virginia,Rockbridge County,False,False,False
+2172,51165,Virginia,Rockingham County,False,False,False
+2173,51167,Virginia,Russell County,False,False,False
+2174,51169,Virginia,Scott County,False,False,False
+2175,51171,Virginia,Shenandoah County,False,False,False
+2176,51173,Virginia,Smyth County,False,False,False
+2177,51175,Virginia,Southampton County,False,False,False
+2178,51177,Virginia,Spotsylvania County,False,False,False
+2179,51179,Virginia,Stafford County,False,False,False
+2180,51181,Virginia,Surry County,False,False,False
+2181,51183,Virginia,Sussex County,False,False,False
+2182,51185,Virginia,Tazewell County,False,False,False
+2183,51187,Virginia,Warren County,False,False,False
+2184,51191,Virginia,Washington County,False,False,False
+2185,51193,Virginia,Westmoreland County,False,False,False
+2186,51195,Virginia,Wise County,False,False,False
+2187,51197,Virginia,Wythe County,False,False,False
+2188,51199,Virginia,York County,False,False,False
+2189,51510,Virginia,Alexandria city,False,False,False
+2190,51515,Virginia,Bedford city,False,False,False
+2191,51520,Virginia,Bristol city,False,False,False
+2192,51530,Virginia,Buena Vista city,False,False,False
+2193,51540,Virginia,Charlottesville city,False,False,False
+2194,51550,Virginia,Chesapeake city,False,False,False
+2195,51570,Virginia,Colonial Heights city,False,False,False
+2196,51580,Virginia,Covington city,False,False,False
+2197,51590,Virginia,Danville city,False,False,False
+2198,51595,Virginia,Emporia city,False,False,False
+2199,51600,Virginia,Fairfax city,False,False,False
+2200,51610,Virginia,Falls Church city,False,False,False
+2201,51620,Virginia,Franklin city,False,False,False
+2202,51630,Virginia,Fredericksburg city,False,False,False
+2203,51640,Virginia,Galax city,False,False,False
+2204,51650,Virginia,Hampton city,False,False,False
+2205,51660,Virginia,Harrisonburg city,False,False,False
+2206,51670,Virginia,Hopewell city,False,False,False
+2207,51678,Virginia,Lexington city,False,False,False
+2208,51680,Virginia,Lynchburg city,False,False,False
+2209,51683,Virginia,Manassas city,False,False,False
+2210,51685,Virginia,Manassas Park city,False,False,False
+2211,51690,Virginia,Martinsville city,False,False,False
+2212,51700,Virginia,Newport News city,False,False,False
+2213,51710,Virginia,Norfolk city,False,False,False
+2214,51720,Virginia,Norton city,False,False,False
+2215,51730,Virginia,Petersburg city,False,False,False
+2216,51735,Virginia,Poquoson city,False,False,False
+2217,51740,Virginia,Portsmouth city,False,False,False
+2218,51750,Virginia,Radford city,False,False,False
+2219,51760,Virginia,Richmond city,False,False,False
+2220,51770,Virginia,Roanoke city,False,False,False
+2221,51775,Virginia,Salem city,False,False,False
+2222,51790,Virginia,Staunton city,False,False,False
+2223,51800,Virginia,Suffolk city,False,False,False
+2224,51810,Virginia,Virginia Beach city,False,False,False
+2225,51820,Virginia,Waynesboro city,False,False,False
+2226,51830,Virginia,Williamsburg city,False,False,False
+2227,51840,Virginia,Winchester city,False,False,False
+2228,53001,Washington,Adams County,False,False,False
+2229,53003,Washington,Asotin County,False,False,False
+2230,53005,Washington,Benton County,False,False,False
+2231,53007,Washington,Chelan County,False,False,False
+2232,53009,Washington,Clallam County,False,False,False
+2233,53011,Washington,Clark County,False,False,False
+2234,53013,Washington,Columbia County,False,False,False
+2235,53015,Washington,Cowlitz County,False,False,False
+2236,53017,Washington,Douglas County,False,False,False
+2237,53019,Washington,Ferry County,False,False,False
+2238,53021,Washington,Franklin County,False,False,False
+2239,53023,Washington,Garfield County,False,False,False
+2240,53025,Washington,Grant County,False,False,False
+2241,53027,Washington,Grays Harbor County,False,False,False
+2242,53029,Washington,Island County,False,False,False
+2243,53031,Washington,Jefferson County,False,False,False
+2244,53033,Washington,King County,False,False,False
+2245,53035,Washington,Kitsap County,False,False,False
+2246,53037,Washington,Kittitas County,False,False,False
+2247,53039,Washington,Klickitat County,False,False,False
+2248,53041,Washington,Lewis County,False,False,False
+2249,53043,Washington,Lincoln County,False,False,False
+2250,53045,Washington,Mason County,False,False,False
+2251,53047,Washington,Okanogan County,False,False,False
+2252,53049,Washington,Pacific County,False,False,False
+2253,53051,Washington,Pend Oreille County,False,False,False
+2254,53053,Washington,Pierce County,False,False,False
+2255,53055,Washington,San Juan County,False,False,False
+2256,53057,Washington,Skagit County,False,False,False
+2257,53059,Washington,Skamania County,False,False,False
+2258,53061,Washington,Snohomish County,False,False,False
+2259,53063,Washington,Spokane County,False,False,False
+2260,53065,Washington,Stevens County,False,False,False
+2261,53067,Washington,Thurston County,False,False,False
+2262,53069,Washington,Wahkiakum County,False,False,False
+2263,53071,Washington,Walla Walla County,False,False,False
+2264,53073,Washington,Whatcom County,False,False,False
+2265,53075,Washington,Whitman County,False,False,False
+2266,53077,Washington,Yakima County,False,False,False
+2267,54001,West Virginia,Barbour County,False,False,False
+2268,54003,West Virginia,Berkeley County,False,False,False
+2269,54005,West Virginia,Boone County,False,False,False
+2270,54007,West Virginia,Braxton County,False,False,False
+2271,54009,West Virginia,Brooke County,False,False,False
+2272,54011,West Virginia,Cabell County,False,False,False
+2273,54013,West Virginia,Calhoun County,False,False,False
+2274,54015,West Virginia,Clay County,False,False,False
+2275,54017,West Virginia,Doddridge County,False,False,False
+2276,54019,West Virginia,Fayette County,False,False,False
+2277,54021,West Virginia,Gilmer County,False,False,False
+2278,54023,West Virginia,Grant County,False,False,False
+2279,54025,West Virginia,Greenbrier County,False,False,False
+2280,54027,West Virginia,Hampshire County,False,False,False
+2281,54029,West Virginia,Hancock County,False,False,False
+2282,54031,West Virginia,Hardy County,False,False,False
+2283,54033,West Virginia,Harrison County,False,False,False
+2284,54035,West Virginia,Jackson County,False,False,False
+2285,54037,West Virginia,Jefferson County,False,False,False
+2286,54039,West Virginia,Kanawha County,False,False,False
+2287,54041,West Virginia,Lewis County,False,False,False
+2288,54043,West Virginia,Lincoln County,False,False,False
+2289,54045,West Virginia,Logan County,False,False,False
+2290,54047,West Virginia,McDowell County,False,False,False
+2291,54049,West Virginia,Marion County,False,False,False
+2292,54051,West Virginia,Marshall County,False,False,False
+2293,54053,West Virginia,Mason County,False,False,False
+2294,54055,West Virginia,Mercer County,False,False,False
+2295,54057,West Virginia,Mineral County,False,False,False
+2296,54059,West Virginia,Mingo County,False,False,False
+2297,54061,West Virginia,Monongalia County,False,False,False
+2298,54063,West Virginia,Monroe County,False,False,False
+2299,54065,West Virginia,Morgan County,False,False,False
+2300,54067,West Virginia,Nicholas County,False,False,False
+2301,54069,West Virginia,Ohio County,False,False,False
+2302,54071,West Virginia,Pendleton County,False,False,False
+2303,54073,West Virginia,Pleasants County,False,False,False
+2304,54075,West Virginia,Pocahontas County,False,False,False
+2305,54077,West Virginia,Preston County,False,False,False
+2306,54079,West Virginia,Putnam County,False,False,False
+2307,54081,West Virginia,Raleigh County,False,False,False
+2308,54083,West Virginia,Randolph County,False,False,False
+2309,54085,West Virginia,Ritchie County,False,False,False
+2310,54087,West Virginia,Roane County,False,False,False
+2311,54089,West Virginia,Summers County,False,False,False
+2312,54091,West Virginia,Taylor County,False,False,False
+2313,54093,West Virginia,Tucker County,False,False,False
+2314,54095,West Virginia,Tyler County,False,False,False
+2315,54097,West Virginia,Upshur County,False,False,False
+2316,54099,West Virginia,Wayne County,False,False,False
+2317,54101,West Virginia,Webster County,False,False,False
+2318,54103,West Virginia,Wetzel County,False,False,False
+2319,54105,West Virginia,Wirt County,False,False,False
+2320,54107,West Virginia,Wood County,False,False,False
+2321,54109,West Virginia,Wyoming County,False,False,False
+2322,55001,Wisconsin,Adams County,False,False,False
+2323,55003,Wisconsin,Ashland County,False,False,False
+2324,55005,Wisconsin,Barron County,False,False,False
+2325,55007,Wisconsin,Bayfield County,False,False,False
+2326,55009,Wisconsin,Brown County,False,False,False
+2327,55011,Wisconsin,Buffalo County,False,False,False
+2328,55013,Wisconsin,Burnett County,False,False,False
+2329,55015,Wisconsin,Calumet County,False,False,False
+2330,55017,Wisconsin,Chippewa County,False,False,False
+2331,55019,Wisconsin,Clark County,False,False,False
+2332,55021,Wisconsin,Columbia County,False,False,False
+2333,55023,Wisconsin,Crawford County,False,False,False
+2334,55025,Wisconsin,Dane County,False,False,False
+2335,55027,Wisconsin,Dodge County,False,False,False
+2336,55029,Wisconsin,Door County,False,False,False
+2337,55031,Wisconsin,Douglas County,False,False,False
+2338,55033,Wisconsin,Dunn County,False,False,False
+2339,55035,Wisconsin,Eau Claire County,False,False,False
+2340,55037,Wisconsin,Florence County,False,False,False
+2341,55039,Wisconsin,Fond du Lac County,False,False,False
+2342,55041,Wisconsin,Forest County,False,False,False
+2343,55043,Wisconsin,Grant County,False,False,False
+2344,55045,Wisconsin,Green County,False,False,False
+2345,55047,Wisconsin,Green Lake County,False,False,False
+2346,55049,Wisconsin,Iowa County,False,False,False
+2347,55051,Wisconsin,Iron County,False,False,False
+2348,55053,Wisconsin,Jackson County,False,False,False
+2349,55055,Wisconsin,Jefferson County,False,False,False
+2350,55057,Wisconsin,Juneau County,False,False,False
+2351,55059,Wisconsin,Kenosha County,False,False,False
+2352,55061,Wisconsin,Kewaunee County,False,False,False
+2353,55063,Wisconsin,La Crosse County,False,False,False
+2354,55065,Wisconsin,Lafayette County,False,False,False
+2355,55067,Wisconsin,Langlade County,False,False,False
+2356,55069,Wisconsin,Lincoln County,False,False,False
+2357,55071,Wisconsin,Manitowoc County,False,False,False
+2358,55073,Wisconsin,Marathon County,False,False,False
+2359,55075,Wisconsin,Marinette County,False,False,False
+2360,55077,Wisconsin,Marquette County,False,False,False
+2361,55078,Wisconsin,Menominee County,False,False,False
+2362,55079,Wisconsin,Milwaukee County,False,False,False
+2363,55081,Wisconsin,Monroe County,False,False,False
+2364,55083,Wisconsin,Oconto County,False,False,False
+2365,55085,Wisconsin,Oneida County,False,False,False
+2366,55087,Wisconsin,Outagamie County,False,False,False
+2367,55089,Wisconsin,Ozaukee County,False,False,False
+2368,55091,Wisconsin,Pepin County,False,False,False
+2369,55093,Wisconsin,Pierce County,False,False,False
+2370,55095,Wisconsin,Polk County,False,False,False
+2371,55097,Wisconsin,Portage County,False,False,False
+2372,55099,Wisconsin,Price County,False,False,False
+2373,55101,Wisconsin,Racine County,False,False,False
+2374,55103,Wisconsin,Richland County,False,False,False
+2375,55105,Wisconsin,Rock County,False,False,False
+2376,55107,Wisconsin,Rusk County,False,False,False
+2377,55109,Wisconsin,St. Croix County,False,False,False
+2378,55111,Wisconsin,Sauk County,False,False,False
+2379,55113,Wisconsin,Sawyer County,False,False,False
+2380,55115,Wisconsin,Shawano County,False,False,False
+2381,55117,Wisconsin,Sheboygan County,False,False,False
+2382,55119,Wisconsin,Taylor County,False,False,False
+2383,55121,Wisconsin,Trempealeau County,False,False,False
+2384,55123,Wisconsin,Vernon County,False,False,False
+2385,55125,Wisconsin,Vilas County,False,False,False
+2386,55127,Wisconsin,Walworth County,False,False,False
+2387,55129,Wisconsin,Washburn County,False,False,False
+2388,55131,Wisconsin,Washington County,False,False,False
+2389,55133,Wisconsin,Waukesha County,False,False,False
+2390,55135,Wisconsin,Waupaca County,False,False,False
+2391,55137,Wisconsin,Waushara County,False,False,False
+2392,55139,Wisconsin,Winnebago County,False,False,False
+2393,55141,Wisconsin,Wood County,False,False,False
+2394,56001,Wyoming,Albany County,False,False,False
+2395,56003,Wyoming,Big Horn County,False,False,False
+2396,56005,Wyoming,Campbell County,False,False,False
+2397,56007,Wyoming,Carbon County,False,False,False
+2398,56009,Wyoming,Converse County,False,False,False
+2399,56011,Wyoming,Crook County,False,False,False
+2400,56013,Wyoming,Fremont County,False,False,False
+2401,56015,Wyoming,Goshen County,False,False,False
+2402,56017,Wyoming,Hot Springs County,False,False,False
+2403,56019,Wyoming,Johnson County,False,False,False
+2404,56021,Wyoming,Laramie County,False,False,False
+2405,56023,Wyoming,Lincoln County,False,False,False
+2406,56025,Wyoming,Natrona County,False,False,False
+2407,56027,Wyoming,Niobrara County,False,False,False
+2408,56029,Wyoming,Park County,False,False,False
+2409,56031,Wyoming,Platte County,False,False,False
+2410,56033,Wyoming,Sheridan County,False,False,False
+2411,56035,Wyoming,Sublette County,False,False,False
+2412,56037,Wyoming,Sweetwater County,False,False,False
+2413,56039,Wyoming,Teton County,False,False,False
+2414,56041,Wyoming,Uinta County,False,False,False
+2415,56043,Wyoming,Washakie County,False,False,False
+2416,56045,Wyoming,Weston County,False,False,False
+2417,1001,Alabama,Autauga County,False,False,False
+2418,1003,Alabama,Baldwin County,False,False,False
+2419,1005,Alabama,Barbour County,False,False,False
+2420,1007,Alabama,Bibb County,False,False,False
+2421,1009,Alabama,Blount County,False,False,False
+2422,1011,Alabama,Bullock County,False,False,False
+2423,1013,Alabama,Butler County,False,False,False
+2424,1015,Alabama,Calhoun County,False,False,False
+2425,1017,Alabama,Chambers County,False,False,False
+2426,1019,Alabama,Cherokee County,False,False,False
+2427,1021,Alabama,Chilton County,False,False,False
+2428,1023,Alabama,Choctaw County,False,False,False
+2429,1025,Alabama,Clarke County,False,False,False
+2430,1027,Alabama,Clay County,False,False,False
+2431,1029,Alabama,Cleburne County,False,False,False
+2432,1031,Alabama,Coffee County,False,False,False
+2433,1033,Alabama,Colbert County,False,False,False
+2434,1035,Alabama,Conecuh County,False,False,False
+2435,1037,Alabama,Coosa County,False,False,False
+2436,1039,Alabama,Covington County,False,False,False
+2437,1041,Alabama,Crenshaw County,False,False,False
+2438,1043,Alabama,Cullman County,False,False,False
+2439,1045,Alabama,Dale County,False,False,False
+2440,1047,Alabama,Dallas County,False,False,False
+2441,1049,Alabama,DeKalb County,False,False,False
+2442,1051,Alabama,Elmore County,False,False,False
+2443,1053,Alabama,Escambia County,False,False,False
+2444,1055,Alabama,Etowah County,False,False,False
+2445,1057,Alabama,Fayette County,False,False,False
+2446,1059,Alabama,Franklin County,False,False,False
+2447,1061,Alabama,Geneva County,False,False,False
+2448,1063,Alabama,Greene County,False,False,False
+2449,1065,Alabama,Hale County,False,False,False
+2450,1067,Alabama,Henry County,False,False,False
+2451,1069,Alabama,Houston County,False,False,False
+2452,1071,Alabama,Jackson County,False,False,False
+2453,1073,Alabama,Jefferson County,False,False,False
+2454,1075,Alabama,Lamar County,False,False,False
+2455,1077,Alabama,Lauderdale County,False,False,False
+2456,1079,Alabama,Lawrence County,False,False,False
+2457,1081,Alabama,Lee County,False,False,False
+2458,1083,Alabama,Limestone County,False,False,False
+2459,1085,Alabama,Lowndes County,False,False,False
+2460,1087,Alabama,Macon County,False,False,False
+2461,1089,Alabama,Madison County,False,False,False
+2462,1091,Alabama,Marengo County,False,False,False
+2463,1093,Alabama,Marion County,False,False,False
+2464,1095,Alabama,Marshall County,False,False,False
+2465,1097,Alabama,Mobile County,False,False,False
+2466,1099,Alabama,Monroe County,False,False,False
+2467,1101,Alabama,Montgomery County,False,False,False
+2468,1103,Alabama,Morgan County,False,False,False
+2469,1105,Alabama,Perry County,False,False,False
+2470,1107,Alabama,Pickens County,False,False,False
+2471,1109,Alabama,Pike County,False,False,False
+2472,1111,Alabama,Randolph County,False,False,False
+2473,1113,Alabama,Russell County,False,False,False
+2474,1115,Alabama,St. Clair County,False,False,False
+2475,1117,Alabama,Shelby County,False,False,False
+2476,1119,Alabama,Sumter County,False,False,False
+2477,1121,Alabama,Talladega County,False,False,False
+2478,1123,Alabama,Tallapoosa County,False,False,False
+2479,1125,Alabama,Tuscaloosa County,False,False,False
+2480,1127,Alabama,Walker County,False,False,False
+2481,1129,Alabama,Washington County,False,False,False
+2482,1131,Alabama,Wilcox County,False,False,False
+2483,1133,Alabama,Winston County,False,False,False
+2484,2013,Alaska,Aleutians East Borough,False,False,False
+2485,2016,Alaska,Aleutians West Census Area,False,False,False
+2486,2020,Alaska,Anchorage Municipality,False,False,False
+2487,2050,Alaska,Bethel Census Area,False,False,False
+2488,2060,Alaska,Bristol Bay Borough,False,False,False
+2489,2068,Alaska,Denali Borough,False,False,False
+2490,2070,Alaska,Dillingham Census Area,False,False,False
+2491,2090,Alaska,Fairbanks North Star Borough,False,False,False
+2492,2100,Alaska,Haines Borough,False,False,False
+2493,2105,Alaska,Hoonah-Angoon Census Area,False,False,False
+2494,2110,Alaska,Juneau City and Borough,False,False,False
+2495,19093,Iowa,Ida County,False,False,False
+2496,2122,Alaska,Kenai Peninsula Borough,False,False,False
+2497,2130,Alaska,Ketchikan Gateway Borough,False,False,False
+2498,2150,Alaska,Kodiak Island Borough,False,False,False
+2499,2164,Alaska,Lake and Peninsula Borough,False,False,False
+2500,2170,Alaska,Matanuska-Susitna Borough,False,False,False
+2501,2180,Alaska,Nome Census Area,False,False,False
+2502,2185,Alaska,North Slope Borough,False,False,False
+2503,2188,Alaska,Northwest Arctic Borough,False,False,False
+2504,2195,Alaska,Petersburg Census Area,False,False,False
+2505,2198,Alaska,Prince of Wales-Hyder Census Area,False,False,False
+2506,2220,Alaska,Sitka City and Borough,False,False,False
+2507,2230,Alaska,Skagway Municipality,False,False,False
+2508,2240,Alaska,Southeast Fairbanks Census Area,False,False,False
+2509,2261,Alaska,Valdez-Cordova Census Area,False,False,False
+2510,2270,Alaska,Wade Hampton Census Area,False,False,False
+2511,2275,Alaska,Wrangell City and Borough,False,False,False
+2512,2282,Alaska,Yakutat City and Borough,False,False,False
+2513,2290,Alaska,Yukon-Koyukuk Census Area,False,False,False
+2514,4001,Arizona,Apache County,False,False,False
+2515,4003,Arizona,Cochise County,False,False,False
+2516,4005,Arizona,Coconino County,False,False,False
+2517,4007,Arizona,Gila County,False,False,False
+2518,4009,Arizona,Graham County,False,False,False
+2519,4011,Arizona,Greenlee County,False,False,False
+2520,4012,Arizona,La Paz County,False,False,False
+2521,4013,Arizona,Maricopa County,False,False,False
+2522,4015,Arizona,Mohave County,False,False,False
+2523,4017,Arizona,Navajo County,False,False,False
+2524,4019,Arizona,Pima County,False,False,False
+2525,4021,Arizona,Pinal County,False,False,False
+2526,4023,Arizona,Santa Cruz County,False,False,False
+2527,4025,Arizona,Yavapai County,False,False,False
+2528,4027,Arizona,Yuma County,False,False,False
+2529,5001,Arkansas,Arkansas County,False,False,False
+2530,5003,Arkansas,Ashley County,False,False,False
+2531,5005,Arkansas,Baxter County,False,False,False
+2532,5007,Arkansas,Benton County,False,False,False
+2533,5009,Arkansas,Boone County,False,False,False
+2534,5011,Arkansas,Bradley County,False,False,False
+2535,5013,Arkansas,Calhoun County,False,False,False
+2536,5015,Arkansas,Carroll County,False,False,False
+2537,5017,Arkansas,Chicot County,False,False,False
+2538,5019,Arkansas,Clark County,False,False,False
+2539,5021,Arkansas,Clay County,False,False,False
+2540,5023,Arkansas,Cleburne County,False,False,False
+2541,5025,Arkansas,Cleveland County,False,False,False
+2542,5027,Arkansas,Columbia County,False,False,False
+2543,5029,Arkansas,Conway County,False,False,False
+2544,5031,Arkansas,Craighead County,False,False,False
+2545,5033,Arkansas,Crawford County,False,False,False
+2546,5035,Arkansas,Crittenden County,False,False,False
+2547,5037,Arkansas,Cross County,False,False,False
+2548,5039,Arkansas,Dallas County,False,False,False
+2549,5041,Arkansas,Desha County,False,False,False
+2550,5043,Arkansas,Drew County,False,False,False
+2551,5045,Arkansas,Faulkner County,False,False,False
+2552,5047,Arkansas,Franklin County,False,False,False
+2553,5049,Arkansas,Fulton County,False,False,False
+2554,5051,Arkansas,Garland County,False,False,False
+2555,5053,Arkansas,Grant County,False,False,False
+2556,5055,Arkansas,Greene County,False,False,False
+2557,5057,Arkansas,Hempstead County,False,False,False
+2558,5059,Arkansas,Hot Spring County,False,False,False
+2559,5061,Arkansas,Howard County,False,False,False
+2560,5063,Arkansas,Independence County,False,False,False
+2561,5065,Arkansas,Izard County,False,False,False
+2562,5067,Arkansas,Jackson County,False,False,False
+2563,19111,Iowa,Lee County,False,False,False
+2564,5069,Arkansas,Jefferson County,False,False,False
+2565,5071,Arkansas,Johnson County,False,False,False
+2566,5073,Arkansas,Lafayette County,False,False,False
+2567,5075,Arkansas,Lawrence County,False,False,False
+2568,5077,Arkansas,Lee County,False,False,False
+2569,5079,Arkansas,Lincoln County,False,False,False
+2570,5081,Arkansas,Little River County,False,False,False
+2571,5083,Arkansas,Logan County,False,False,False
+2572,5085,Arkansas,Lonoke County,False,False,False
+2573,5087,Arkansas,Madison County,False,False,False
+2574,5089,Arkansas,Marion County,False,False,False
+2575,5091,Arkansas,Miller County,False,False,False
+2576,5093,Arkansas,Mississippi County,False,False,False
+2577,5095,Arkansas,Monroe County,False,False,False
+2578,5097,Arkansas,Montgomery County,False,False,False
+2579,5099,Arkansas,Nevada County,False,False,False
+2580,5101,Arkansas,Newton County,False,False,False
+2581,5103,Arkansas,Ouachita County,False,False,False
+2582,5105,Arkansas,Perry County,False,False,False
+2583,5107,Arkansas,Phillips County,False,False,False
+2584,5109,Arkansas,Pike County,False,False,False
+2585,5111,Arkansas,Poinsett County,False,False,False
+2586,5113,Arkansas,Polk County,False,False,False
+2587,5115,Arkansas,Pope County,False,False,False
+2588,5117,Arkansas,Prairie County,False,False,False
+2589,5119,Arkansas,Pulaski County,False,False,False
+2590,5121,Arkansas,Randolph County,False,False,False
+2591,5123,Arkansas,St. Francis County,False,False,False
+2592,5125,Arkansas,Saline County,False,False,False
+2593,5127,Arkansas,Scott County,False,False,False
+2594,5129,Arkansas,Searcy County,False,False,False
+2595,5131,Arkansas,Sebastian County,False,False,False
+2596,5133,Arkansas,Sevier County,False,False,False
+2597,5135,Arkansas,Sharp County,False,False,False
+2598,5137,Arkansas,Stone County,False,False,False
+2599,5139,Arkansas,Union County,False,False,False
+2600,5141,Arkansas,Van Buren County,False,False,False
+2601,5143,Arkansas,Washington County,False,False,False
+2602,5145,Arkansas,White County,False,False,False
+2603,5147,Arkansas,Woodruff County,False,False,False
+2604,5149,Arkansas,Yell County,False,False,False
+2605,6001,California,Alameda County,False,False,False
+2606,6003,California,Alpine County,False,False,False
+2607,6005,California,Amador County,False,False,False
+2608,6007,California,Butte County,False,False,False
+2609,6009,California,Calaveras County,False,False,False
+2610,6011,California,Colusa County,False,False,False
+2611,6013,California,Contra Costa County,False,False,False
+2612,6015,California,Del Norte County,False,False,False
+2613,6017,California,El Dorado County,False,False,False
+2614,19161,Iowa,Sac County,False,False,False
+2615,6019,California,Fresno County,False,False,False
+2616,6021,California,Glenn County,False,False,False
+2617,6023,California,Humboldt County,False,False,False
+2618,6025,California,Imperial County,False,False,False
+2619,6027,California,Inyo County,False,False,False
+2620,6029,California,Kern County,False,False,False
+2621,6031,California,Kings County,False,False,False
+2622,6033,California,Lake County,False,False,False
+2623,6035,California,Lassen County,False,False,False
+2624,6037,California,Los Angeles County,False,False,False
+2625,6039,California,Madera County,False,False,False
+2626,6041,California,Marin County,False,False,False
+2627,6043,California,Mariposa County,False,False,False
+2628,6045,California,Mendocino County,False,False,False
+2629,6047,California,Merced County,False,False,False
+2630,6049,California,Modoc County,False,False,False
+2631,6051,California,Mono County,False,False,False
+2632,6053,California,Monterey County,False,False,False
+2633,6055,California,Napa County,False,False,False
+2634,6057,California,Nevada County,False,False,False
+2635,6059,California,Orange County,False,False,False
+2636,6061,California,Placer County,False,False,False
+2637,6063,California,Plumas County,False,False,False
+2638,6065,California,Riverside County,False,False,False
+2639,6067,California,Sacramento County,False,False,False
+2640,6069,California,San Benito County,False,False,False
+2641,6071,California,San Bernardino County,False,False,False
+2642,6073,California,San Diego County,False,False,False
+2643,6075,California,San Francisco County,False,False,False
+2644,6077,California,San Joaquin County,False,False,False
+2645,6079,California,San Luis Obispo County,False,False,False
+2646,6081,California,San Mateo County,False,False,False
+2647,6083,California,Santa Barbara County,False,False,False
+2648,6085,California,Santa Clara County,False,False,False
+2649,6087,California,Santa Cruz County,False,False,False
+2650,6089,California,Shasta County,False,False,False
+2651,6091,California,Sierra County,False,False,False
+2652,6093,California,Siskiyou County,False,False,False
+2653,6095,California,Solano County,False,False,False
+2654,6097,California,Sonoma County,False,False,False
+2655,6099,California,Stanislaus County,False,False,False
+2656,6101,California,Sutter County,False,False,False
+2657,6103,California,Tehama County,False,False,False
+2658,6105,California,Trinity County,False,False,False
+2659,6107,California,Tulare County,False,False,False
+2660,6109,California,Tuolumne County,False,False,False
+2661,6111,California,Ventura County,False,False,False
+2662,6113,California,Yolo County,False,False,False
+2663,6115,California,Yuba County,False,False,False
+2664,8001,Colorado,Adams County,False,False,False
+2665,8003,Colorado,Alamosa County,False,False,False
+2666,8005,Colorado,Arapahoe County,False,False,False
+2667,8007,Colorado,Archuleta County,False,False,False
+2668,8009,Colorado,Baca County,False,False,False
+2669,8011,Colorado,Bent County,False,False,False
+2670,8013,Colorado,Boulder County,False,False,False
+2671,8014,Colorado,Broomfield County,False,False,False
+2672,8015,Colorado,Chaffee County,False,False,False
+2673,8017,Colorado,Cheyenne County,False,False,False
+2674,8019,Colorado,Clear Creek County,False,False,False
+2675,8021,Colorado,Conejos County,False,False,False
+2676,8023,Colorado,Costilla County,False,False,False
+2677,8025,Colorado,Crowley County,False,False,False
+2678,8027,Colorado,Custer County,False,False,False
+2679,8029,Colorado,Delta County,False,False,False
+2680,8031,Colorado,Denver County,False,False,False
+2681,8033,Colorado,Dolores County,False,False,False
+2682,8035,Colorado,Douglas County,False,False,False
+2683,8037,Colorado,Eagle County,False,False,False
+2684,8039,Colorado,Elbert County,False,False,False
+2685,8041,Colorado,El Paso County,False,False,False
+2686,8043,Colorado,Fremont County,False,False,False
+2687,8045,Colorado,Garfield County,False,False,False
+2688,8047,Colorado,Gilpin County,False,False,False
+2689,8049,Colorado,Grand County,False,False,False
+2690,8051,Colorado,Gunnison County,False,False,False
+2691,8053,Colorado,Hinsdale County,False,False,False
+2692,8055,Colorado,Huerfano County,False,False,False
+2693,8057,Colorado,Jackson County,False,False,False
+2694,8059,Colorado,Jefferson County,False,False,False
+2695,8061,Colorado,Kiowa County,False,False,False
+2696,8063,Colorado,Kit Carson County,False,False,False
+2697,8065,Colorado,Lake County,False,False,False
+2698,8067,Colorado,La Plata County,False,False,False
+2699,8069,Colorado,Larimer County,False,False,False
+2700,8071,Colorado,Las Animas County,False,False,False
+2701,8073,Colorado,Lincoln County,False,False,False
+2702,8075,Colorado,Logan County,False,False,False
+2703,8077,Colorado,Mesa County,False,False,False
+2704,8079,Colorado,Mineral County,False,False,False
+2705,8081,Colorado,Moffat County,False,False,False
+2706,8083,Colorado,Montezuma County,False,False,False
+2707,8085,Colorado,Montrose County,False,False,False
+2708,8087,Colorado,Morgan County,False,False,False
+2709,8089,Colorado,Otero County,False,False,False
+2710,8091,Colorado,Ouray County,False,False,False
+2711,8093,Colorado,Park County,False,False,False
+2712,8095,Colorado,Phillips County,False,False,False
+2713,8097,Colorado,Pitkin County,False,False,False
+2714,8099,Colorado,Prowers County,False,False,False
+2715,8101,Colorado,Pueblo County,False,False,False
+2716,8103,Colorado,Rio Blanco County,False,False,False
+2717,8105,Colorado,Rio Grande County,False,False,False
+2718,8107,Colorado,Routt County,False,False,False
+2719,8109,Colorado,Saguache County,False,False,False
+2720,8111,Colorado,San Juan County,False,False,False
+2721,8113,Colorado,San Miguel County,False,False,False
+2722,8115,Colorado,Sedgwick County,False,False,False
+2723,8117,Colorado,Summit County,False,False,False
+2724,8119,Colorado,Teller County,False,False,False
+2725,8121,Colorado,Washington County,False,False,False
+2726,8123,Colorado,Weld County,False,False,False
+2727,8125,Colorado,Yuma County,False,False,False
+2728,9001,Connecticut,Fairfield County,False,False,False
+2729,9003,Connecticut,Hartford County,False,False,False
+2730,9005,Connecticut,Litchfield County,False,False,False
+2731,9007,Connecticut,Middlesex County,False,False,False
+2732,9009,Connecticut,New Haven County,False,False,False
+2733,9011,Connecticut,New London County,False,False,False
+2734,9013,Connecticut,Tolland County,False,False,False
+2735,9015,Connecticut,Windham County,False,False,False
+2736,10001,Delaware,Kent County,False,False,False
+2737,10003,Delaware,New Castle County,False,False,False
+2738,10005,Delaware,Sussex County,False,False,False
+2739,11001,District of Columbia,District of Columbia,False,False,False
+2740,12001,Florida,Alachua County,False,False,False
+2741,12003,Florida,Baker County,False,False,False
+2742,12005,Florida,Bay County,False,False,False
+2743,12007,Florida,Bradford County,False,False,False
+2744,12009,Florida,Brevard County,False,False,False
+2745,12011,Florida,Broward County,False,False,False
+2746,12013,Florida,Calhoun County,False,False,False
+2747,12015,Florida,Charlotte County,False,False,False
+2748,12017,Florida,Citrus County,False,False,False
+2749,12019,Florida,Clay County,False,False,False
+2750,12021,Florida,Collier County,False,False,False
+2751,12023,Florida,Columbia County,False,False,False
+2752,12027,Florida,DeSoto County,False,False,False
+2753,12029,Florida,Dixie County,False,False,False
+2754,12031,Florida,Duval County,False,False,False
+2755,12033,Florida,Escambia County,False,False,False
+2756,12035,Florida,Flagler County,False,False,False
+2757,12037,Florida,Franklin County,False,False,False
+2758,12039,Florida,Gadsden County,False,False,False
+2759,12041,Florida,Gilchrist County,False,False,False
+2760,12043,Florida,Glades County,False,False,False
+2761,12045,Florida,Gulf County,False,False,False
+2762,12047,Florida,Hamilton County,False,False,False
+2763,12049,Florida,Hardee County,False,False,False
+2764,12051,Florida,Hendry County,False,False,False
+2765,12053,Florida,Hernando County,False,False,False
+2766,12055,Florida,Highlands County,False,False,False
+2767,12057,Florida,Hillsborough County,False,False,False
+2768,12059,Florida,Holmes County,False,False,False
+2769,12061,Florida,Indian River County,False,False,False
+2770,12063,Florida,Jackson County,False,False,False
+2771,12065,Florida,Jefferson County,False,False,False
+2772,12067,Florida,Lafayette County,False,False,False
+2773,12069,Florida,Lake County,False,False,False
+2774,12071,Florida,Lee County,False,False,False
+2775,12073,Florida,Leon County,False,False,False
+2776,12075,Florida,Levy County,False,False,False
+2777,12077,Florida,Liberty County,False,False,False
+2778,12079,Florida,Madison County,False,False,False
+2779,12081,Florida,Manatee County,False,False,False
+2780,12083,Florida,Marion County,False,False,False
+2781,12085,Florida,Martin County,False,False,False
+2782,12086,Florida,Miami-Dade County,False,False,False
+2783,12087,Florida,Monroe County,False,False,False
+2784,12089,Florida,Nassau County,False,False,False
+2785,12091,Florida,Okaloosa County,False,False,False
+2786,12093,Florida,Okeechobee County,False,False,False
+2787,12095,Florida,Orange County,False,False,False
+2788,12097,Florida,Osceola County,False,False,False
+2789,12099,Florida,Palm Beach County,False,False,False
+2790,12101,Florida,Pasco County,False,False,False
+2791,12103,Florida,Pinellas County,False,False,False
+2792,12105,Florida,Polk County,False,False,False
+2793,12107,Florida,Putnam County,False,False,False
+2794,12109,Florida,St. Johns County,False,False,False
+2795,12111,Florida,St. Lucie County,False,False,False
+2796,12113,Florida,Santa Rosa County,False,False,False
+2797,12115,Florida,Sarasota County,False,False,False
+2798,12117,Florida,Seminole County,False,False,False
+2799,12119,Florida,Sumter County,False,False,False
+2800,12121,Florida,Suwannee County,False,False,False
+2801,12123,Florida,Taylor County,False,False,False
+2802,12125,Florida,Union County,False,False,False
+2803,12127,Florida,Volusia County,False,False,False
+2804,12129,Florida,Wakulla County,False,False,False
+2805,12131,Florida,Walton County,False,False,False
+2806,12133,Florida,Washington County,False,False,False
+2807,13001,Georgia,Appling County,False,False,False
+2808,13003,Georgia,Atkinson County,False,False,False
+2809,13005,Georgia,Bacon County,False,False,False
+2810,13007,Georgia,Baker County,False,False,False
+2811,13009,Georgia,Baldwin County,False,False,False
+2812,13011,Georgia,Banks County,False,False,False
+2813,13013,Georgia,Barrow County,False,False,False
+2814,13015,Georgia,Bartow County,False,False,False
+2815,13017,Georgia,Ben Hill County,False,False,False
+2816,13019,Georgia,Berrien County,False,False,False
+2817,13021,Georgia,Bibb County,False,False,False
+2818,13023,Georgia,Bleckley County,False,False,False
+2819,13025,Georgia,Brantley County,False,False,False
+2820,13027,Georgia,Brooks County,False,False,False
+2821,13029,Georgia,Bryan County,False,False,False
+2822,13031,Georgia,Bulloch County,False,False,False
+2823,13033,Georgia,Burke County,False,False,False
+2824,13035,Georgia,Butts County,False,False,False
+2825,13037,Georgia,Calhoun County,False,False,False
+2826,13039,Georgia,Camden County,False,False,False
+2827,13043,Georgia,Candler County,False,False,False
+2828,13045,Georgia,Carroll County,False,False,False
+2829,13047,Georgia,Catoosa County,False,False,False
+2830,13049,Georgia,Charlton County,False,False,False
+2831,13051,Georgia,Chatham County,False,False,False
+2832,13053,Georgia,Chattahoochee County,False,False,False
+2833,13055,Georgia,Chattooga County,False,False,False
+2834,13057,Georgia,Cherokee County,False,False,False
+2835,13059,Georgia,Clarke County,False,False,False
+2836,13061,Georgia,Clay County,False,False,False
+2837,13063,Georgia,Clayton County,False,False,False
+2838,13065,Georgia,Clinch County,False,False,False
+2839,13067,Georgia,Cobb County,False,False,False
+2840,13069,Georgia,Coffee County,False,False,False
+2841,13071,Georgia,Colquitt County,False,False,False
+2842,13073,Georgia,Columbia County,False,False,False
+2843,13075,Georgia,Cook County,False,False,False
+2844,13077,Georgia,Coweta County,False,False,False
+2845,13079,Georgia,Crawford County,False,False,False
+2846,13081,Georgia,Crisp County,False,False,False
+2847,13083,Georgia,Dade County,False,False,False
+2848,13085,Georgia,Dawson County,False,False,False
+2849,13087,Georgia,Decatur County,False,False,False
+2850,13089,Georgia,DeKalb County,False,False,False
+2851,13091,Georgia,Dodge County,False,False,False
+2852,13093,Georgia,Dooly County,False,False,False
+2853,13095,Georgia,Dougherty County,False,False,False
+2854,13097,Georgia,Douglas County,False,False,False
+2855,13099,Georgia,Early County,False,False,False
+2856,13101,Georgia,Echols County,False,False,False
+2857,13103,Georgia,Effingham County,False,False,False
+2858,13105,Georgia,Elbert County,False,False,False
+2859,13107,Georgia,Emanuel County,False,False,False
+2860,13109,Georgia,Evans County,False,False,False
+2861,13111,Georgia,Fannin County,False,False,False
+2862,13113,Georgia,Fayette County,False,False,False
+2863,13115,Georgia,Floyd County,False,False,False
+2864,13117,Georgia,Forsyth County,False,False,False
+2865,13119,Georgia,Franklin County,False,False,False
+2866,13121,Georgia,Fulton County,False,False,False
+2867,13123,Georgia,Gilmer County,False,False,False
+2868,13125,Georgia,Glascock County,False,False,False
+2869,13127,Georgia,Glynn County,False,False,False
+2870,13129,Georgia,Gordon County,False,False,False
+2871,13131,Georgia,Grady County,False,False,False
+2872,13133,Georgia,Greene County,False,False,False
+2873,13135,Georgia,Gwinnett County,False,False,False
+2874,13137,Georgia,Habersham County,False,False,False
+2875,13139,Georgia,Hall County,False,False,False
+2876,13141,Georgia,Hancock County,False,False,False
+2877,13143,Georgia,Haralson County,False,False,False
+2878,13145,Georgia,Harris County,False,False,False
+2879,13147,Georgia,Hart County,False,False,False
+2880,13149,Georgia,Heard County,False,False,False
+2881,13151,Georgia,Henry County,False,False,False
+2882,13153,Georgia,Houston County,False,False,False
+2883,13155,Georgia,Irwin County,False,False,False
+2884,13157,Georgia,Jackson County,False,False,False
+2885,13159,Georgia,Jasper County,False,False,False
+2886,13161,Georgia,Jeff Davis County,False,False,False
+2887,13163,Georgia,Jefferson County,False,False,False
+2888,13165,Georgia,Jenkins County,False,False,False
+2889,13167,Georgia,Johnson County,False,False,False
+2890,13169,Georgia,Jones County,False,False,False
+2891,13171,Georgia,Lamar County,False,False,False
+2892,13173,Georgia,Lanier County,False,False,False
+2893,13175,Georgia,Laurens County,False,False,False
+2894,13177,Georgia,Lee County,False,False,False
+2895,13179,Georgia,Liberty County,False,False,False
+2896,13181,Georgia,Lincoln County,False,False,False
+2897,13183,Georgia,Long County,False,False,False
+2898,13185,Georgia,Lowndes County,False,False,False
+2899,13187,Georgia,Lumpkin County,False,False,False
+2900,13189,Georgia,McDuffie County,False,False,False
+2901,13191,Georgia,McIntosh County,False,False,False
+2902,13193,Georgia,Macon County,False,False,False
+2903,13195,Georgia,Madison County,False,False,False
+2904,13197,Georgia,Marion County,False,False,False
+2905,13199,Georgia,Meriwether County,False,False,False
+2906,13201,Georgia,Miller County,False,False,False
+2907,13205,Georgia,Mitchell County,False,False,False
+2908,13207,Georgia,Monroe County,False,False,False
+2909,13209,Georgia,Montgomery County,False,False,False
+2910,13211,Georgia,Morgan County,False,False,False
+2911,13213,Georgia,Murray County,False,False,False
+2912,13215,Georgia,Muscogee County,False,False,False
+2913,13217,Georgia,Newton County,False,False,False
+2914,13219,Georgia,Oconee County,False,False,False
+2915,13221,Georgia,Oglethorpe County,False,False,False
+2916,13223,Georgia,Paulding County,False,False,False
+2917,13225,Georgia,Peach County,False,False,False
+2918,13227,Georgia,Pickens County,False,False,False
+2919,13229,Georgia,Pierce County,False,False,False
+2920,13231,Georgia,Pike County,False,False,False
+2921,13233,Georgia,Polk County,False,False,False
+2922,13235,Georgia,Pulaski County,False,False,False
+2923,13237,Georgia,Putnam County,False,False,False
+2924,13239,Georgia,Quitman County,False,False,False
+2925,13241,Georgia,Rabun County,False,False,False
+2926,13243,Georgia,Randolph County,False,False,False
+2927,13245,Georgia,Richmond County,False,False,False
+2928,13247,Georgia,Rockdale County,False,False,False
+2929,13249,Georgia,Schley County,False,False,False
+2930,13251,Georgia,Screven County,False,False,False
+2931,13253,Georgia,Seminole County,False,False,False
+2932,13255,Georgia,Spalding County,False,False,False
+2933,13257,Georgia,Stephens County,False,False,False
+2934,13259,Georgia,Stewart County,False,False,False
+2935,13261,Georgia,Sumter County,False,False,False
+2936,13263,Georgia,Talbot County,False,False,False
+2937,13265,Georgia,Taliaferro County,False,False,False
+2938,13267,Georgia,Tattnall County,False,False,False
+2939,13269,Georgia,Taylor County,False,False,False
+2940,13271,Georgia,Telfair County,False,False,False
+2941,13273,Georgia,Terrell County,False,False,False
+2942,13275,Georgia,Thomas County,False,False,False
+2943,13277,Georgia,Tift County,False,False,False
+2944,13279,Georgia,Toombs County,False,False,False
+2945,13281,Georgia,Towns County,False,False,False
+2946,13283,Georgia,Treutlen County,False,False,False
+2947,13285,Georgia,Troup County,False,False,False
+2948,13287,Georgia,Turner County,False,False,False
+2949,13289,Georgia,Twiggs County,False,False,False
+2950,13291,Georgia,Union County,False,False,False
+2951,13293,Georgia,Upson County,False,False,False
+2952,13295,Georgia,Walker County,False,False,False
+2953,13297,Georgia,Walton County,False,False,False
+2954,13299,Georgia,Ware County,False,False,False
+2955,13301,Georgia,Warren County,False,False,False
+2956,13303,Georgia,Washington County,False,False,False
+2957,13305,Georgia,Wayne County,False,False,False
+2958,13307,Georgia,Webster County,False,False,False
+2959,13309,Georgia,Wheeler County,False,False,False
+2960,13311,Georgia,White County,False,False,False
+2961,13313,Georgia,Whitfield County,False,False,False
+2962,13315,Georgia,Wilcox County,False,False,False
+2963,13317,Georgia,Wilkes County,False,False,False
+2964,13319,Georgia,Wilkinson County,False,False,False
+2965,13321,Georgia,Worth County,False,False,False
+2966,15001,Hawaii,Hawaii County,False,False,False
+2967,15003,Hawaii,Honolulu County,False,False,False
+2968,15005,Hawaii,Kalawao County,False,False,False
+2969,15007,Hawaii,Kauai County,False,False,False
+2970,15009,Hawaii,Maui County,False,False,False
+2971,16001,Idaho,Ada County,False,False,False
+2972,16003,Idaho,Adams County,False,False,False
+2973,16005,Idaho,Bannock County,False,False,False
+2974,16007,Idaho,Bear Lake County,False,False,False
+2975,16009,Idaho,Benewah County,False,False,False
+2976,16011,Idaho,Bingham County,False,False,False
+2977,16013,Idaho,Blaine County,False,False,False
+2978,16015,Idaho,Boise County,False,False,False
+2979,16017,Idaho,Bonner County,False,False,False
+2980,16019,Idaho,Bonneville County,False,False,False
+2981,16021,Idaho,Boundary County,False,False,False
+2982,16023,Idaho,Butte County,False,False,False
+2983,16025,Idaho,Camas County,False,False,False
+2984,16027,Idaho,Canyon County,False,False,False
+2985,16029,Idaho,Caribou County,False,False,False
+2986,16031,Idaho,Cassia County,False,False,False
+2987,16033,Idaho,Clark County,False,False,False
+2988,16035,Idaho,Clearwater County,False,False,False
+2989,16037,Idaho,Custer County,False,False,False
+2990,16039,Idaho,Elmore County,False,False,False
+2991,16041,Idaho,Franklin County,False,False,False
+2992,16043,Idaho,Fremont County,False,False,False
+2993,16045,Idaho,Gem County,False,False,False
+2994,16047,Idaho,Gooding County,False,False,False
+2995,16049,Idaho,Idaho County,False,False,False
+2996,16051,Idaho,Jefferson County,False,False,False
+2997,16053,Idaho,Jerome County,False,False,False
+2998,16055,Idaho,Kootenai County,False,False,False
+2999,16057,Idaho,Latah County,False,False,False
+3000,16059,Idaho,Lemhi County,False,False,False
+3001,16061,Idaho,Lewis County,False,False,False
+3002,16063,Idaho,Lincoln County,False,False,False
+3003,16065,Idaho,Madison County,False,False,False
+3004,16067,Idaho,Minidoka County,False,False,False
+3005,16069,Idaho,Nez Perce County,False,False,False
+3006,16071,Idaho,Oneida County,False,False,False
+3007,16073,Idaho,Owyhee County,False,False,False
+3008,16075,Idaho,Payette County,False,False,False
+3009,16077,Idaho,Power County,False,False,False
+3010,16079,Idaho,Shoshone County,False,False,False
+3011,16081,Idaho,Teton County,False,False,False
+3012,16083,Idaho,Twin Falls County,False,False,False
+3013,16085,Idaho,Valley County,False,False,False
+3014,16087,Idaho,Washington County,False,False,False
+3015,17001,Illinois,Adams County,False,False,False
+3016,17003,Illinois,Alexander County,False,False,False
+3017,17005,Illinois,Bond County,False,False,False
+3018,17007,Illinois,Boone County,False,False,False
+3019,17009,Illinois,Brown County,False,False,False
+3020,17011,Illinois,Bureau County,False,False,False
+3021,17013,Illinois,Calhoun County,False,False,False
+3022,17015,Illinois,Carroll County,False,False,False
+3023,17017,Illinois,Cass County,False,False,False
+3024,17019,Illinois,Champaign County,False,False,False
+3025,17021,Illinois,Christian County,False,False,False
+3026,17023,Illinois,Clark County,False,False,False
+3027,17025,Illinois,Clay County,False,False,False
+3028,17027,Illinois,Clinton County,False,False,False
+3029,17029,Illinois,Coles County,False,False,False
+3030,17031,Illinois,Cook County,False,False,False
+3031,17033,Illinois,Crawford County,False,False,False
+3032,17035,Illinois,Cumberland County,False,False,False
+3033,17037,Illinois,DeKalb County,False,False,False
+3034,17039,Illinois,De Witt County,False,False,False
+3035,17041,Illinois,Douglas County,False,False,False
+3036,17043,Illinois,DuPage County,False,False,False
+3037,17045,Illinois,Edgar County,False,False,False
+3038,17047,Illinois,Edwards County,False,False,False
+3039,17049,Illinois,Effingham County,False,False,False
+3040,17051,Illinois,Fayette County,False,False,False
+3041,17053,Illinois,Ford County,False,False,False
+3042,17055,Illinois,Franklin County,False,False,False
+3043,17057,Illinois,Fulton County,False,False,False
+3044,17059,Illinois,Gallatin County,False,False,False
+3045,17061,Illinois,Greene County,False,False,False
+3046,17063,Illinois,Grundy County,False,False,False
+3047,17065,Illinois,Hamilton County,False,False,False
+3048,17067,Illinois,Hancock County,False,False,False
+3049,17069,Illinois,Hardin County,False,False,False
+3050,17071,Illinois,Henderson County,False,False,False
+3051,17073,Illinois,Henry County,False,False,False
+3052,17075,Illinois,Iroquois County,False,False,False
+3053,17077,Illinois,Jackson County,False,False,False
+3054,17079,Illinois,Jasper County,False,False,False
+3055,17081,Illinois,Jefferson County,False,False,False
+3056,17083,Illinois,Jersey County,False,False,False
+3057,17085,Illinois,Jo Daviess County,False,False,False
+3058,17087,Illinois,Johnson County,False,False,False
+3059,17089,Illinois,Kane County,False,False,False
+3060,17091,Illinois,Kankakee County,False,False,False
+3061,17093,Illinois,Kendall County,False,False,False
+3062,17095,Illinois,Knox County,False,False,False
+3063,17097,Illinois,Lake County,False,False,False
+3064,17099,Illinois,LaSalle County,False,False,False
+3065,17101,Illinois,Lawrence County,False,False,False
+3066,17103,Illinois,Lee County,False,False,False
+3067,17105,Illinois,Livingston County,False,False,False
+3068,17107,Illinois,Logan County,False,False,False
+3069,17109,Illinois,McDonough County,False,False,False
+3070,17111,Illinois,McHenry County,False,False,False
+3071,17113,Illinois,McLean County,False,False,False
+3072,17115,Illinois,Macon County,False,False,False
+3073,17117,Illinois,Macoupin County,False,False,False
+3074,17119,Illinois,Madison County,False,False,False
+3075,17121,Illinois,Marion County,False,False,False
+3076,17123,Illinois,Marshall County,False,False,False
+3077,17125,Illinois,Mason County,False,False,False
+3078,17127,Illinois,Massac County,False,False,False
+3079,17129,Illinois,Menard County,False,False,False
+3080,17131,Illinois,Mercer County,False,False,False
+3081,17133,Illinois,Monroe County,False,False,False
+3082,17135,Illinois,Montgomery County,False,False,False
+3083,17137,Illinois,Morgan County,False,False,False
+3084,17139,Illinois,Moultrie County,False,False,False
+3085,17141,Illinois,Ogle County,False,False,False
+3086,17143,Illinois,Peoria County,False,False,False
+3087,17145,Illinois,Perry County,False,False,False
+3088,17147,Illinois,Piatt County,False,False,False
+3089,17149,Illinois,Pike County,False,False,False
+3090,17151,Illinois,Pope County,False,False,False
+3091,17153,Illinois,Pulaski County,False,False,False
+3092,17155,Illinois,Putnam County,False,False,False
+3093,17157,Illinois,Randolph County,False,False,False
+3094,17159,Illinois,Richland County,False,False,False
+3095,17161,Illinois,Rock Island County,False,False,False
+3096,17163,Illinois,St. Clair County,False,False,False
+3097,17165,Illinois,Saline County,False,False,False
+3098,17167,Illinois,Sangamon County,False,False,False
+3099,17169,Illinois,Schuyler County,False,False,False
+3100,17171,Illinois,Scott County,False,False,False
+3101,17173,Illinois,Shelby County,False,False,False
+3102,17175,Illinois,Stark County,False,False,False
+3103,17177,Illinois,Stephenson County,False,False,False
+3104,17179,Illinois,Tazewell County,False,False,False
+3105,17181,Illinois,Union County,False,False,False
+3106,17183,Illinois,Vermilion County,False,False,False
+3107,17185,Illinois,Wabash County,False,False,False
+3108,17187,Illinois,Warren County,False,False,False
+3109,17189,Illinois,Washington County,False,False,False
+3110,17191,Illinois,Wayne County,False,False,False
+3111,17193,Illinois,White County,False,False,False
+3112,17195,Illinois,Whiteside County,False,False,False
+3113,17197,Illinois,Will County,False,False,False
+3114,17199,Illinois,Williamson County,False,False,False
+3115,17201,Illinois,Winnebago County,False,False,False
+3116,17203,Illinois,Woodford County,False,False,False
+3117,18001,Indiana,Adams County,False,False,False
+3118,18003,Indiana,Allen County,False,False,False
+3119,18005,Indiana,Bartholomew County,False,False,False
+3120,18007,Indiana,Benton County,False,False,False
+3121,18009,Indiana,Blackford County,False,False,False
+3122,18011,Indiana,Boone County,False,False,False
+3123,18013,Indiana,Brown County,False,False,False
+3124,18015,Indiana,Carroll County,False,False,False
+3125,18017,Indiana,Cass County,False,False,False
+3126,18019,Indiana,Clark County,False,False,False
+3127,18021,Indiana,Clay County,False,False,False
+3128,18023,Indiana,Clinton County,False,False,False
+3129,18025,Indiana,Crawford County,False,False,False
+3130,18027,Indiana,Daviess County,False,False,False
+3131,18029,Indiana,Dearborn County,False,False,False
+3132,18031,Indiana,Decatur County,False,False,False
+3133,18033,Indiana,DeKalb County,False,False,False
+3134,18035,Indiana,Delaware County,False,False,False
+3135,18037,Indiana,Dubois County,False,False,False
+3136,18039,Indiana,Elkhart County,False,False,False
+3137,18041,Indiana,Fayette County,False,False,False
+3138,18043,Indiana,Floyd County,False,False,False
+3139,18045,Indiana,Fountain County,False,False,False
+3140,18047,Indiana,Franklin County,False,False,False
+3141,35011,New Mexico,De Baca County,False,False,False
+3142,35013,New Mexico,Doña Ana County,False,False,False
