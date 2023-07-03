@@ -1,5 +1,5 @@
 ### pre_beta
-#https://blog.devgenius.io/deploy-a-flask-app-with-docker-google-cloud-run-and-cloud-sql-for-postgresql-6dc9e7f4c434
+#https://www.youtube.com/watch?v=IBfj_0Zf2Mo
 
 from flask import Flask, session
 from flask_sqlalchemy import SQLAlchemy
@@ -12,6 +12,7 @@ import os
 
 app = Flask(__name__)
 
+### important remember to set environmental variable in render as Python 3.10.4 and internal db
 #db name = relistprebetatest1
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:postgres@localhost/db_app'
 #app.config['SQLALCHEMY_DATABASE_URI'] = environ.get('DATABASE_URL').replace("://", "ql://", 1)
@@ -60,3 +61,8 @@ from models import *
 # run this
 # $ export FLASK_ENV=development 
 # $ export FLASK_DEBUG=1
+
+#git add .
+#git commit -m 'html tag modification'
+#git push origin master
+
