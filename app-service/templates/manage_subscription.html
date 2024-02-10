@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block title %}Manage Subscription{% endblock %}
+
+{% block content %}
+<!-- <h1>Manage subscription for {{current_user.user_name}} (id: {{current_user.id}})</h1> -->
+
+<center>
+<h1>Manage Subscription</h1>
+<div class="select_counties">
+
+
+<h2>Select available county listings:</h2>
+{% for form in forms %}
+<form action="" method="post" novalidate>
+    <tr>
+        <td>{{ form.county_selection.label }}</td>
+        <td>{{ form.submit }}</td>
+    </tr>
+</form>
+{% endfor %}
+<br>
+
+<h2>Counties currently selected for {{current_user.user_name}}</h2>
+{% if user_counties_selected %}
+<table>
+    <thead>
+        <tr>
+            <td><b>County</b></td>
+            <td><b>Billed Monthly</b></td>
+            <td><b>Billed Annually</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        {% for county in user_counties_selected %}
+        <tr>
+            <td>{{county.CTYNAME}}</td>
+            <td>${{county.monthly_price}}</td>
+            <td>${{county.annual_monthly_price}}</td>
+        {% endfor %}
+        </tr>
+    </tbody>
+</table>
+{% endif %}
+
+<div>
+    <p><b>Yearly payment:</b> ${{user_total_annual_monthly}} per month (${{user_total_annual_yearly}} charged once annually)</p>
+    <p><b>Monthly payment:</b> ${{user_total_monthly}} per month (charged monthly)</p>
+</div>
+<div>
+    <form action="" method="post">
+        {{ forms_payment_selection.hidden_tag() }}
+        <p>{{ forms_payment_selection.payment_selection() }} {{ forms_payment_selection.payment_selection.label }}</p>
+        {% for error in forms_payment_selection.payment_selection.errors %}
+        <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <p>{{ forms_payment_selection.payment_selection_submit() }}</p>
+    </form>
+</div>
+</div>
+</center>
+<br>
+<br>
+<br>
+
+<center>
+<div class="payment">
+    <h2>Payment</h2>
+    <h5>note: stripe API will replace payment info form here.</h5>
+    <h5><a href="https://stripe.com/">stripe API info click here</a></h5>
+    <form action="" method="post">
+        {{ forms_payment.hidden_tag() }}
+        
+        <p>
+            {{ forms_payment.payment_info.label }}<br>
+            {{ forms_payment.payment_info(size=32) }}<br>
+            {% for error in forms_payment.payment_info.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        {% if monthly_payment_option %}
+            <p><b>Monthly Payment Option Selected</b></p>
+            <p><b>Total due today:</b> ${{user_total_monthly}}</p>
+            <p>${{user_total_monthly}} will be charged monthly</p>
+            <p>{{ forms_payment.payment_agreement() }} {{ forms_payment.payment_agreement.label }}</p>
+            <p>{{ forms_payment.submit_payment() }}</p>
+        {% elif annual_payment_option %}
+            <p><b>Annual Payment Option Selected</b></p>
+            <p><b>Total due today:</b> ${{user_total_annual_yearly}}</p>
+            <p>${{user_total_annual_yearly}} will be charged annually</p>
+            <p>{{ forms_payment.payment_agreement() }} {{ forms_payment.payment_agreement.label }}</p>
+            <p>{{ forms_payment.submit_payment() }}</p>
+        {% else %}
+            <p><b>Select payment option from above</b></p>
+        {% endif %}
+    </form>
+</div>
+</center>
+
+{% endblock %}

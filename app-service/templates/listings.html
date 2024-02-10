@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block title %}Listings{% endblock %}
+{% block content %}
+<div class="container">
+    <div class='listing_info'>
+        {% if listing_info %}
+        <h1>{{listing_info.street}}, {{listing_info.city}}, MI {{listing_info.zip_code}}</h1>
+        <ul>
+            <li><b>Address:</b> {{listing_info.formatted_address}}</li>
+            <li><b>County:</b> {{listing_info.county_name}}</li>
+            <li><b>State:</b> {{listing_info.state}}</li>
+            <li><b>Estimated Value:</b> {{listing_info.estimated_value}}</li>
+            <li><b>Equity:</b> {{listing_info.equity}}</li>
+            <li><b>Published Debt:</b> {{listing_info.published_debt}}</li>
+            <li><b>Date Debt Published:</b> {{listing_info.date_debt_published}}</li>
+            <li><b>Foresclosure Sale Date:</b> {{listing_info.foreclosure_sale_date}}</li>
+            <li><b>Redemption Period:</b> {{listing_info.redemption_period}}</li>
+            <li><b>Mortgager Name:</b> {{listing_info.mortgagor_name}}</li>
+            <li><b>Foreclosing Assignee Mortgee:</b> {{listing_info.foreclosing_assignee_mortgagee}}</li>
+            <li><b>Date of Mortgage:</b> {{listing_info.date_of_mortgage}}</li>
+            <li><b>Foreclosure Attorney:</b> {{listing_info.foreclosing_attorney}}</li>
+        </ul>
+        <h4><a href="{{url_for('add_listing', user_id=current_user.id, listing_id=listing_info.id)}}">Add</a></h4>
+        {% else %}
+        <h1>Select address for listing info</h1>
+        {% endif %}
+    </div>
+
+    <div class='listings'>
+        {% if available_listings_dict %}
+        <h1>Available Listings for {{current_user.user_name}}</h1>
+        {% for county, listings in available_listings_dict.items() %}
+        <table>
+            <caption><b>COUNTY: {{county.CTYNAME}}</b></caption>
+            <thead>
+                <tr>
+                    <!-- <td><b>Favorite</b></td> -->
+                    <td></td>
+                    <!-- <td><b>Address</b></td> -->
+                    <td></td>
+                    <td><a href="{{url_for('listings', user_id=current_user.id, listing_id=listing_info.id, sort_listing='city')}}"><b>City</b></a></td>
+                    <td><a href="{{url_for('listings', user_id=current_user.id, listing_id=listing_info.id, sort_listing='equity')}}"><b>Equity</b></a></td>
+                    <td><a href="{{url_for('listings', user_id=current_user.id, listing_id=listing_info.id, sort_listing='date_debt_published')}}"><b>Debt Published</b></a></td>
+                    <td><a href="{{url_for('listings', user_id=current_user.id, listing_id=listing_info.id, sort_listing='date_relisted_formatted')}}"><b>re listed</b></a></td>
+                    <!-- <td><b>County</b></td>
+                    <td><b>Published Debt</b></td>
+                    <td><b>Estimated Value</b></td>
+                    <td><b>Equity</b></td>
+                    <td><b>Date Published</b></td>
+                    <td><b>Foreclosure Sale Date</b></td>
+                    <td><b>Redemption Ends</b></td>
+                    <td><b>Mortgage Info</b></td>
+                    <td><b>Notes</b></td>
+                    <td><b>Photos</b></td> -->
+                </tr>
+            </thead>
+            <tbody>
+                
+                {% for listing in listings %}
+                <tr>
+                    <td><a href="{{url_for('add_listing', user_id=current_user.id, listing_id=listing.id)}}">Add</a></td>
+                    <td class="street_column"><a href="{{url_for('listings', user_id=current_user.id, listing_id=listing.id)}}">{{listing.street}}</a></td>
+                    <td class="city_column">{{listing.city}}</td>
+                    <td class="equity_column">{{listing.equity}}</td>
+                    <td>{{listing.date_debt_published}}</td>
+                    <td>{{listing.date_relisted_formatted}}</td>
+                    <td>new listing!</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endfor %}
+        <br>
+        <br>
+        <h3><a href="{{url_for('manage_subscription', user_id=current_user.id)}}">Click here</a> to subscribe to more counties.</h3>
+        <br>
+        <br>
+        {% else %}
+        <h1>No available Listings for {{current_user.user_name}}. <a href="{{url_for('manage_subscription', user_id=current_user.id)}}">Click here</a> to select counties.</h1>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

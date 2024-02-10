@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='stylesheets/style.css') }}" /> 
+        <title>{% block title %}re list{% endblock %}</title>
+    </head>
+    <body>
+
+        <div class="nav">
+            <div class="header">
+                <div class="logo">
+                    <h1><b>[logo]          re list</b></h1>
+                </div>
+            </div>
+            <div class="container">
+                <ul>
+                    {% if current_user.is_authenticated %}
+                    <li><a href="{{ url_for('index') }}">Home</a></li>
+                    <li><a href="{{ url_for('listings', user_id=current_user.id) }}">Listings</a></li>
+
+                    {% if favorite_len %}
+                    <li><a href="{{ url_for('favorites', user_id=current_user.id) }}">Favorites ({{favorite_len}})</a></li>
+                    {% else %}
+                    <li><a href="{{ url_for('favorites', user_id=current_user.id) }}">Favorites</a></li>
+                    {% endif %}
+
+                    <li><a href="{{ url_for('user_account', user_id=current_user.id) }}">Account</a></li>
+                    <li><a href="{{ url_for('terms_disclaimer') }}">Terms & Disclaimer</a></li>
+                    <li><a href="{{ url_for('privacy') }}">Privacy</a></li>
+                    <li><a href="{{ url_for('contact') }}">Contact</a></li>
+                    <li><a href="{{ url_for('logout') }}">Logout</a></li>
+                    {% else %}
+                    <li><a href="{{ url_for('index') }}">Home</a></li>
+                    <li><a href="{{ url_for('login') }}">Login</a></li>
+                    <li><a href="{{ url_for('contact') }}">Contact</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+            <footer>
+                <p>© 2023 re list website. All rights reserved.</p>
+            </footer>
+
+        </div>
+        <main>
+            {% block content %}
+            
+            {% endblock %}
+        </main>
+    </body>
+    
+
+    
+</html>
