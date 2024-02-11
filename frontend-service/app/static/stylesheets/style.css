@@ -1,0 +1,128 @@
+/* style.css */
+
+body {
+    background-color: #bebebecd;
+    font-family: sans-serif;
+    height:100vh
+}
+
+.nav {
+    height: 100%;
+    width: 12%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #353533;
+    overflow: hidden;
+}
+
+main {
+    margin-top: 50px;
+    margin-left: 12%;
+    /* margin-left: 310px; */
+  }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    margin-bottom: 10px;
+  }
+
+.nav .logo {
+    font-weight: bold;
+    font-size:large;
+    color:aqua;
+}
+
+.nav ul {
+    list-style-type: None;
+    font-size:medium;
+}
+
+li a {
+    display: block;
+    color: #f1eeee;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+ 
+li a:hover {
+    background-color: #fad390;
+    color: #fff;
+  }
+
+
+.container {
+    overflow: hidden;
+  }
+
+.listing_info {
+    background: #fffc54;
+    height: 950px;
+    top: 0;
+    bottom:0;
+    float: right;
+    position: fixed-right;
+    width:49%;
+    overflow:hidden;
+  }
+
+.listings {
+    background: #e3e3dc;
+    float: left;
+    width:44%;
+    /* width: auto; */
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-y:scroll;
+    direction: ltr;
+    overflow-x:hidden;
+  }
+
+.select_counties {
+  width:30%;
+  height:45%;
+  display:inline-block;
+  border:2px solid #0b0b0b;
+  background-color: #DBF9FC;
+  margin:0;
+}
+
+.payment {
+  width:30%;
+  height:45%;
+  display:inline-block;
+  border:2px solid #0b0b0b;
+  background-color: #DBF9FC;
+  margin:0;
+}
+
+table {
+  width: 100%;
+}
+
+caption {
+  vertical-align: top;
+}
+
+td {
+  vertical-align: top;
+  text-align: left;
+}
+
+.street_column {
+  width: 25%;
+  
+}
+
+.city_column {
+  width: 20%;
+}
+
+.equity_column {
+  width: 15%;
+}

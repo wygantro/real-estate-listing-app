@@ -1,20 +1,11 @@
-## Real Estate Listing App (relist)
+## Real Estate Listing Flask App (relist)
 
-## Customer Churn Analysis (R Shiny App)
-This is a generic customer churn dashboard developed in R Shiny. The main purpose is ETL of the customer churn dataset from Kaggle and then allow user to sort by customer demographic then visualize different churn percent distributions by buisness inputs.
-
-[project presentation PDF link](presentaion.pdf)
-
-[blog post](https://nycdatascience.com/blog/meetup/r-shiny-customer-churn/)
+This project contains the codebase for a real estate listing Flask web app prototype build. It comprises of a frontend service with user login/sessions and the models for a supporting relational database design using SQL Alchemy models/objects. The backend service contains basic commit logic to initialize the database. The project has deployment scripts ready for Google Cloud Kubernetes Engine and CloudSQL.
 
 ### System Diagram
 
-<img src="./assets/system_diagram.png" width="650">
+<img src="./assets/app_system_overview.png" width="750">
 
-### Page 1 Screenshot (select customer demographic)
+### Relational Database Schema
 
-<img src="./assets/app_page1.png" width="650">
-
-### Page 2 Screenshot (visualize churn percent distribution)
-
-<img src="./assets/app_page2.png" width="650">
+<img src="./assets/database_schema.png" width="850">
